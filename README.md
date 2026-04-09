@@ -78,19 +78,23 @@ python scripts/neo4j_import.py
 
 ## 🔍 Example Triplets
 {"Arjuna" : "Husband Of" : "Subhadra"}
+
 {"Arjuna" : "Father Of" : "Abhimanyu"}
+
 {"Arjuna" : "Friend" : "Krishna"}
+
 {"Arjuna" : "Killed" : "Karna"}
 
 ---
 
 ## 🔎 Example Queries
-MATCH (n {name: "Arjuna"})-[r]->(m)
-RETURN n, r, m;
-MATCH (n)-[r]->(m)
+MATCH (n {name: "Arjuna"})-[r]->(m) 
 RETURN n, r, m;
 
---
+MATCH (n)-[r]->(m) 
+RETURN n, r, m;
+
+---
 
 ## 🧪 Usage
 - TTL file can be used in RDF tools  
