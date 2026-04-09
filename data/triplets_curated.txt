@@ -1,0 +1,3434 @@
+ABHIDHANA:
+{"Abhidhana Ratnamala" : "Written By" : "Halayudha Bhatta"}
+{"Abhidhana Chintamani" : "Written By" : "Hemachandra"}
+{"Abhidhana Ratnamala" : "Editor" : "Aufrecht"}
+{"Abhidhana Chintamani" : "Editor" : "Colebrooke"}
+{"Abhidhana Chintamani" : "Editor" : "Böhtlingk"}
+{"Abhidhana Chintamani" : "Editor" : "Rieu"}
+
+Agni:
+{"Agni" : "Eldest Son Of" : "Brahma"}
+{"Agni" : "Husband Of" : "Swaha"}
+{"Agni" : "Father Of" : "Pavaka"}
+{"Swaha" : "Mother Of" : "Pavaka"}
+{"Agni" : "Father Of" : "Pavamana"}
+{"Swaha" : "Mother Of" : "Pavamana"}
+{"Agni" : "Father Of" : "Suchi"}
+{"Swaha" : "Mother Of" : "Suchi"}
+
+ABHIMANYU:
+{"Abhimanyu" : "Son Of" : "Arjuna"}
+{"Abhimanyu" : "Son Of" : "Subhadra"}
+{"Abhimanyu" : "Also Known" : "Saubhadra"}
+{"Abhimanyu" : "Killed" : "Lakshmana"}
+{"Lakshmana" : "Son Of" : "Duryodhna"}
+{"Abhimanyu" : "Husband of" : "Uttara"}
+{"Uttara" : "Daughter Of" : "Virata"}
+{"Abhimanyu" : "Father Of" : "Parikshit"}
+{"Abhimanyu" : "Nephew Of" : "Krishna"}
+{"Subhadra" : "Sister Of" : "Krishna"}
+
+ABHIRA:
+{"Abhira" : "Offspring Of" : "Brahman"}
+{"Abhira" : "Offspring Of" : "Woman of Ambashtha"}
+{"Abhira" : "Modern Representatives Are" : "Ahirs"}
+{"Abhira" : "Possible Identification" : "Ophir of the Bible"}
+
+Achyuta:
+{"Achyuta" : "Is Name Of" : "Vishnu"}
+{"Achyuta" : "Is Name Of" : "Krishna"}
+
+Adbhuta-Brahmawa:
+{"Adbhuta-Brahmawa" : "Is Brahmana of the" : "Sama-Veda"}
+{"Adbhuta-Brahmawa" : "Treats Of" : "Auguries"}
+
+
+Adharma:
+{"Adharma" : "Personified As Son of " : "Brahma"}
+{"Adharma" : "Called" : "The Destroyer of All Beings"}
+
+Adhiratha:
+{"Adhiratha" : "Foster-Father Of" : "Karna"}
+{"Adhiratha" : "King Of" : "Anga"}
+{"Adhiratha" : "Charioteer Of" : "Dhritarashtra"}
+
+Adhwaryu:
+{"Adhwaryu" : "Is" : "Priest"}
+{"Adhwaryu" : "Reciter Of Prayers Of The" : "Yajur-veda"}
+
+Adhyatman:
+{"Adhyatman" : "Is" : "Supreme Spirit"}
+{"Adhyatman" : "Is" : "Soul of the Universe"}
+
+Adhyatma Ramayana:
+{"Adhyatma Ramayana" : "Considered Part Of" : "Brahmanda Purana"}
+
+Adi-Purawa:
+{"Adi-Purawa" : "The First Of" : "Purana"}
+
+Aditi:
+{"Aditi" : "Called" : "Deva-mātri"}
+{"Aditi" : "Mother Of" : "Gods"}
+{"Aditi" : "Mother Of" : "Daksha"}
+{"Aditi" : "Daughter Of" : "Daksha"}
+{"Aditi" : "Mother Of" : "Seven Adityas"}
+{"Aditi" : "Mother Of" : "Marttanda"}
+{"Marttanda" : "Also Known As" : "Sun"}
+{"Aditi" : "Wife Of" : "Vishnu"}
+{"Vishnu" : "Son Of" : "Aditi"}
+{"Aditi" : "Wife Of" : "Kasyapa"}
+{"Aditi" : "Mother Of" : "Vamana"}
+{"Aditi" : "Mother Of" : "Indra"}
+{"Naraka" : "Stole Ear Rings Of" : "Aditi"}
+{"Naraka" : "King Of" : "Asura"}
+{"Krishna" : "Brought Back The Ear Rings Of" : "Aditi"}
+{"Devaki" : "Is New Birth of" : "Aditi"}
+
+Aditya:
+{"Varuna" : "Chief Among" : "Adityas"}
+{"Varuna" : "Known As" : "Aditya"}
+{"Adityas" : "Sons Of" : "Aditi"}
+{"Aditya" : "Is Name Of" : "Sun"}
+{"Mitra" : "Is One Of" : "Adityas"}
+{"Aryaman" : "Is One Of" : "Adityas"}
+{"Bhaga" : "Is One Of" : "Adityas"}
+{"Daksha" : "Is One Of" : "Adityas"}
+{"Ansa" : "Is One Of" : "Adityas"}
+{"Indra" : "Is One Of" : "Adityas"}
+{"Savitri" : "Is One Of" : "Adityas"}
+{"Dhatri" : "Is One Of" : "Adityas"}
+{"Mitra" : "Is One Of" : "Adityas"}
+
+Aditya Purana:
+{"Aditya Purana" : "Is One of the Eighteen" : "Upapuranas"}
+
+Agastya:
+{"Agastya" : "Also Known As" : "Agasti"}
+{"Agastya" : "Reputed Author Of Hymns in" : "Rig-veda"}
+{"Agastya" : "Offspring Of" : "Mitra"}
+{"Agastya" : "Offspring Of" : "Varuna"}
+{"Vasishtha" : "Offspring Of" : "Mitra"}
+{"Vasishtha" : "Offspring Of" : "Varuna"}
+{"Agastya" : "Called" : "Kalasi-suta"}
+{"Agastya" : "Called" : "Kumbha-sambhava"}
+{"Agastya" : "Called" : "Ghafodbhava"}
+{"Agastya" : "Also Known As" : "Maitra-varuni"}
+{"Agastya" : "Also Known As" : "Aurvasiya"}
+{"Agastya" : "Called" : "Mana"}
+{"Agastya" : "Not One Of" : "Prajapatis"}
+{"Agastya" : "Epithet" : "Vindhya-kūpa"}
+{"Agastya" : "Also Known As" : "Pitabdhi"}
+{"Agastya" : "Also Known As" : "Samudra-chuluka"}
+{"Agastya" : "Made Regent Of" : "Star Canopus"}
+{"Agastya" : "Son Of" : "Pulastya"}
+{"Pulastya" : "Ancestor Of" : "Rakshasas"}
+{"Agastya" : "Narrator Of" : "Brahma Purana"}
+{"Agastya" : "Writer On" : "Medicine"}
+{"Agastya" : "Husband Of" : "Lopamudra"}
+{"Lopamudra" : "Also Known As" : "Kausitaki"}
+{"Lopamudra" : "Also Known As" : "Varaprada"}
+{"Agastya" : "Turned Into Serpent" : "King Nahusha"}
+{"Agastya" : "Restored The Form Of" : "King Nahusha"}
+{"Agastya" : "Chief Of" : "Hermits of the South"}
+{"Agastya" : "Controlled" : "Rakshasas of the South"}
+{"Agastya" : "Ate" : "Rakshasa Vatapi"}
+{"Agastya" : "Destroyed" : "Rakshasa Ilvala"}
+{"Rama" : "Visited" : "Hermitage of Agastya"}
+{"Agastya" : "Gave Bow of Vishnu to " : "Rama"}
+
+Aghasura:
+{"Aghasura" : "Is" : "Asura"}
+{"Aghasura" : "General Of" : "Kansa"}
+{"Aghasura" : "Assumed Form" : "Vast Serpent"}
+{"Krishna" : "Killed" : "Aghasura"}
+
+Agnayil:
+{"Agnayil" : "Wife Of" : "Agni"}
+
+Agneya:
+{"Agneya" : "Son Of" : "Agni"}
+{"Agneya" : "Is Name Of" : "Karttikeya"}
+{"Agneya" : "Is Name Of" : "Mars"}
+{"Agneya" : "Appellation Of" : "Agastya"}
+
+Agneyastra:
+{"Agneyastra" : "Means" : "Weapon of Fire"}
+{"Agneyastra" : "Given By" : "Bharadwaja"}
+{"Agneyastra" : "Given To" : "Agnivesa"}
+{"Agnivesa" : "Son Of" : "Agni"}
+{"Agneyastra" : "Given By" : "Agnivesa"}
+{"Agneyastra" : "Given To" : "Drona"}
+{"Agneyastra" : "Given By" : "Aurva"}
+{"Agneyastra" : "Gave To" : "King Sagara"}
+
+ÀGNEYA PURANA:
+
+Agni:
+{"Agni" : "Is" : "Fire"}
+{"Agni" : "Appears In Heaven As" : "Sun"}
+{"Agni" : "Appears In Mid-air As" : "Lightning"}
+{"Agni" : "Appears  On Earth As" : "Ordinary Fire"}
+{"Agni" : "Is One Of Chief Deities of the" : "Vedas"}
+{"Agni" : "Is One Of" : "Three Great Deities"}
+{"Vayu" : "Is One Of" : "Three Great Deities"}
+{"Surya" : "Is One Of" : "Three Great Deities"}
+{"Agni" : "Presides Over" : "Earth"}
+{"Vayu" : "Presides Over" : "Air"}
+{"Surya" : "Presides Over" : "Sky"}
+{"Agni" : "Considered" : "Mediator Between Men and Gods"}
+{"Agni" : "Considered" : "Protector of Men and Their Homes"}
+{"Agni" : "Considered" : "Witness of Men’s Actions"}
+{"Agni" : "Invoked At" : "Solemn Occasions and Nuptial Ceremony"}
+{"Agni" : "Represented With" : "Seven Tongues"}
+{"Agni" : "Guardian Of" : "South-East Quarter"}
+{"Agni" : "One Of Eight" : "Lokapalas"}
+{"Agni" : "Region Called" : "Pura-jyotis"}
+{"Agni" : "Called" : "Kravyad"}
+{"Agni" : "Sharpens" : "Two Iron Tusks"}
+{"Agni" : "Swallows" : "Enemies"}
+{"Agni" : "Heats" : "Edges of Shafts"}
+{"Agni" : "Sends Shafts Into" : "Hearts of Rakshas"}
+{"Agni" : "Appears As" : "Son of Angiras"}
+{"Agni" : "Appears As" : "King of Pitris or Manes"}
+{"Agni" : "Appears As" : "Marut"}
+{"Agni" : "Appears As" : "Grandson of Sandila"}
+{"Agni" : "Appears As" : "One of the Seven Sages"}
+{"Agni" : "Represented As" : "Star"}
+{"Agni" : "Devoured Too Many" : "Oblations"}
+{"Agni" : "Desired to Consume" : "Khandava Forest"}
+{"Indra" : "Prevented" : "Agni’s Desire"}
+{"Krishna" : "Assisted" : "Agni"}
+{"Arjuna" : "Assisted" : "Agni"}
+{"Agni" : "Baffled" : "Indra"}
+{"Agni" : "Called" : "Abhimani"}
+{"Agni" : "Eldest Son Of" : "Brahma"}
+{"Agni" : "Husband Of" : "Swaha"}
+{"Agni" : "Father Of" : "Pavaka"}
+{"Swaha" : "Mother Of" : "Pavaka"}
+{"Agni" : "Father Of" : "Pavamana"}
+{"Swaha" : "Mother Of" : "Pavamana"}
+{"Agni" : "Father Of" : "Suchi"}
+{"Swaha" : "Mother Of" : "Suchi"}
+{"Agni" : "Carries" : "Flaming Javelin"}
+{"Agni" : "Borne In" : "Chariot Drawn by Red Horses"}
+{"Seven Winds" : "Are Wheels of Car of" : "Agni"}
+{"Agni" : "Accompanied By" : "Ram"}
+{"Names of Agni" : "Include" : "Vahni"}
+{"Names of Agni" : "Include" : "Anala"}
+{"Names of Agni" : "Include" : "Pavaka"}
+{"Names of Agni" : "Include" : "Vaiswanara"}
+{"Names of Agni" : "Include" : "Abja-hasta"}
+{"Names of Agni" : "Include" : "Dhima-ketu"}
+{"Names of Agni" : "Include" : "Hutasa"}
+{"Names of Agni" : "Include" : " Suchi"}
+{"Names of Agni" : "Include" : "Rohitaswa"}
+{"Names of Agni" : "Include" : "Chhaga-ratha"}
+{"Names of Agni" : "Include" : "Jata vedas"}
+{"Names of Agni" : "Include" : "Saptajihva"}
+{"Names of Agni" : "Include" : "Tomaradhara"}
+{"Vaiswanara" : "Son Of" : "Viswanara"}
+{"Viswanara" : "Also Known As" : "Sun"}
+
+Agni-Dagdhas:
+{"Agni-Dagdhas" : "Are" : "Pitris"}
+{"Agni-Dagdhas" : "Are" : "Manes"}
+{"Agni-Dagdhas" : "Kept Up" : "Household Flame"}
+{"Agni-Dagdhas" : "Presented As Oblations with" : "Fire"}
+{"An-agni dagdhas" : "Those Who Did Not Keep" : "Fire"}
+
+Agni Purana:
+{"Agni Purana" : "Name Derived From" : "Agni"}
+{"Agni" : "Communicated Purana To" : "Vasishtha"}
+{"Agni Purana" : "Purpose Is Instruction of Twofold Knowledge of Brahma To" : "Vasishtha"}
+{"Agni Purana" : "Devoted To" : "Siva"}
+
+Agnishwattas:
+{"Agnishwattas" : "Are" : "Pitris"}
+{"Agnishwattas" : "Are" : "Pitris"}
+{"Agnishwattas" : "Descendants Of" : "Marichi"}
+{"Agnishwattas" : "Identified With" : "Seasons"}
+
+Agnivesa:
+{"Agnivesa" : "Is" : "Sage"}
+{"Agnivesa" : "Son Of" : "Agni"}
+{"Agnivesa" : "Early Writer On" : "Medicine"}
+
+Ahalya:
+{"Ahalya" : "Wife Of" : "Gautama"}
+{"Ahalya" : "Made By" : "Brahma"}
+{"Ahalya" : "Seduced By" : "Indra"}
+{"Indra" : "Assumed Form Of" : "Gautama"}
+{"Moon" : "Assumed Form Of" : "Cock"}
+{"Ahalya" : "Was Rendered  Invisible By" : "Gautama"}
+{"Ahalya" : "Restored By" : "Rama"}
+{"Ahalya" : "Reconciled To" : "Gautama"}
+
+Ahi-Chhatra:
+{"Ahi-Chhatra" : "Also Known As" : "Ahi-Kshetra"}
+{"Ahi-Chhatra" : "Is" : "City"}
+{"Ahi-Chhatra" : "Located North of The" : "Ganges"}
+{"Ahi-Chhatra" : "Capital Of" : "Northern Panchala"}
+{"Ahi-Chhatra" : "Identified As" : "Adisadra of Ptolemy"}
+{"Remains of Ahi-Chhatra" : "Visible Near" : "Ramnagar"}
+
+Aindri:
+{"Aindri" : "Is Appellation Of" : "Arjuna"}
+{"Arjuna" : "Son Of" : "Indra"}
+
+Airavata:
+{"Airavata" : "Is" : "Elephant"}
+{"Airavata" : "Produced At" : "Churning of the Ocean"}
+{"Airavata" : "Appropriated By" : "Indra"}
+{"Airavata" : "Derived From" : "Iravat"}
+{"Iravat" : "Means" : "Produced from Water"}
+{"Airavata" : "Guardian Of One of the Points of " : "Compass"}
+
+Aitareya:
+{"Aitareya" : "Is Brahmana of" : "Rig-veda"}
+{"Aitareya" : "Is Aranyaka of" : "Rig-veda"}
+{"Aitareya" : "Is Upanishad of" : "Rig-veda"}
+
+Aja:
+{"Aja" : "Means" : "Unborn"}
+{"Aja" : "Is Prince of" : "Solar Race"}
+{"Aja" : "Son Of" : "Raghu"}
+{"Aja" : "Son Of" : "Dilipa"}
+{"Aja" : "Husband Of" : "Indumati"}
+{"Indumati" : "Daughter Of" : "Raja of Vidarbha"}
+{"Aja" : "Father Of" : "Dasaratha"}
+{"Aja" : "Grandfather Of" : "Rama"}
+{"Gandharva" : "Was Released from Wild Elephant By" : "Aja"}
+{"Gandharva" : "Transformed Into" : "Mad Elephant"}
+{"Aja" : "Given Arrows By" : "Gandharva"}
+{"Aja" : "Used Arrows To Excel In" : "Swayam-vara Contest"}
+{"Aja" : "Ascended To" : "Indra's Heaven"}
+
+Ajagava:
+{"Ajagava" : "Is" : "Primitive Bow of Shiva"}
+
+Ajamilā:
+{"Ajamilā" : "Is" : "Brahman of Kanauj"}
+{"Ajamilā" : "Married" : "A Slave"}
+
+Ajata-Satru:
+{"Ajata-Satru (Kasi)" : "King Of" : "Kasi"}
+{"Ajata-Satru (Kasi)" : "Mentioned In" : "Upanishads"}
+{"Ajata-Satru (Kasi)" : "Instructed" : "Brahman Gargya-balaki"}
+{"Ajata-Satru (Kasi)" : "Is" : "Kshatriya"}
+{"Ajata-Satru" : "Name Of" : "Siva"}
+{"Ajata-Satru" : "Name Of" : "Yudhi-shthira"}
+{"Ajata-Satru (Mathura)" : "King Of" : "Mathura"}
+{"Ajata-Satru (Mathura)" : "Reigned During Time of" : "Buddha"}
+
+Ajaya-Pala:
+{"Ajaya-Pala" : "Author Of" : "Sanskrit Vocabulary"}
+
+Ajigartta:
+{"Ajigartta" : "Is" : "Brahman Rishi"}
+{"Ajigartta" : "Sold Son" : "Sunahsephas"}
+
+Ajita
+{"Ajita" : "Title Of" : "Vishnu"}
+{"Ajita" : "Title Of" : "Siva"}
+{"Ajita" : "Name Of" : "Gods"}
+
+Akrura:
+{"Akrura" : "Is" : "Yadava"}
+{"Akrura" : "Uncle Of" : "Krishna"}
+{"Akrura" : "Son Of" : "Swa-phalka"}
+{"Akrura" : "Son Of" : "Gandini"}
+{"Akrura" : "Holder Of" : "Syamantaka Gem"}
+
+Aksha:
+{"Aksha" : "Eldest Son Of" : "Ravana"}
+{"Aksha" : "Slain By" : "Hanuman"}
+{"Aksha" : "Name Of" : "Garuda"}
+
+Akshamala:
+{"Akshamala" : "Name Of" : "Arundhati"}
+
+Akuli:
+{"Akuli" : "Is" : "Asura Priest"}
+
+Akupara:
+{"Akupara" : "Is" : "Tortoise"}
+{"Akupara" : "Is" : "Turtle"}
+{"Akupara" : "Tortoise On Which" : "Earth Rests"}
+
+Akuti:
+{"Akuti" : "Daughter Of" : "Manu Swayambhuva"}
+{"Akuti" : "Daughter Of" : "Sata-rupa"}
+{"Akuti" : "Wife Of" : "Patriarch Ruchi"}
+{"Akuti" : "Mother Of" : "Yajna"}
+{"Akuti" : "Mother Of" : "Dakshina"}
+{"Yajna" : "Husband Of" : "Dakshina"}
+{"Dakshina" : "Wife Of" : "Yajna"}
+{"Yajna and Dakshina" : "Parents Of" : "Twelve Sons (Yamas)"}
+
+Alaka:
+{"Alaka" : "Capital Of" : "Kuvera"}
+{"Alaka" : "Abode Of" : "Gandharvas"}
+{"Alaka" : "Located On" : "Mount Meru"}
+{"Alaka" : "Also Called" : "Vasu-dhara"}
+{"Alaka" : "Also Called" : "Vasu-sthali"}
+{"Alaka" : "Also Called" : "Prabha"}
+
+Alaka-nanda:
+{"Alaka-nanda" : "Branch Of" : "River Ganga"}
+{"Alaka-nanda" : "Flows To" : "Country of Bharata"}
+{"Alaka-nanda" : "Terrestrial Ganga Received By" : "Siva upon his Head"}
+
+Alambusha:
+{"Alambusha" : "Is" : "Rakshasa"}
+{"Alambusha" : "Worsted By" : "Satyaki"}
+{"Alambusha" : "Killed By" : "Ghatotkacha"}
+{"Alambusha" : "Son Of" : "Rishyasringa"}
+
+Alayudha:
+{"Alayudha" : "Is" : "Rakshasa"}
+{"Alayudha" : "Killed By" : "Ghatotkacha"}
+
+Amara-Kantaka:
+{"Amara-Kantaka" : "Is" : "Place of Pilgrimage"}
+{"Amara-Kantaka" : "Located in Table-land East of the" : "Vindhyas"}
+
+Amara-Kosha:
+{"Amara-Kosha" : "Authored By" : "Amara Sinha"}
+
+Amara Sinha:
+{"Amara Sinha" : "Author Of" : "Amara-Kosha"}
+{"Amara Sinha" : "One Of Nine Gems of court Of" : "Vikrama"}
+
+Amaravati:
+{"Amaravati" : "Is Capital of Heaven of" : "Indra"}
+{"Amaravati" : "Situated Near" : "Meru"}
+{"Amaravati" : "Also Called" : "Deva-pura"}
+{"Amaravati" : "Also Called" : "Pushabhāsa"}
+{"Pushabhāsa" : "Also Called" : "Sun-splendour"}
+
+Amareswara:
+{"Amareswara" : "Title Of" : "Vishnu"}
+{"Amareswara" : "Title Of" : "Siva"}
+{"Amareswara" : "Title Of" : "Indra"}
+{"Amareswara" : "Name Of One of the" : "Twelve Great Lingas"}
+
+Amaru-Sataka:
+{"Amaru-Sataka" : "Is Poem of" : "Hundred Stanzas"}
+{"Amaru-Sataka" : "Written By" : "King Amaru"}
+{"Amaru-Sataka" : "Attributed To" : "Philosopher Sankara"}
+{"Sankara" : "Assumed Dead Form Of" : "King Amaru"}
+
+Amba:
+{"Amba" : "Means" : "Mother"}
+{"Amba" : "Name Of" : "Durga"}
+{"Amba" : "Eldest Daughter Of" : "King of Kasi"}
+{"Ambika" : "Sister Of" : "Amba"}
+{"Ambalika" : "Sister Of" : "Amba"}
+{"Amba" : "Carried Off By" : "Bhishma"}
+{"Ambika" : "Carried Off By" : "Bhishma"}
+{"Ambalika" : "Carried Off By" : "Bhishma"}
+{"Amba" : "Betrothed To" : "Raja of Salwa"}
+{"Raja of Salwa" : "Rejected" : "Amba"}
+{"Amba" : "Engaged In Devotion for Revenge Against" : "Bhishma"}
+{"Siva" : "Favoured" : "Amba"}
+{"Amba" : "Born Again As" : "Sikhandin"}
+{"Sikhandin" : "Slew" : "Bhishma"}
+
+Ambalika:
+{"Ambalika" : "Younger Widow Of" : "Vichitra-virya"}
+{"Ambalika" : "Mother Of" : "Pandu"}
+{"Vyasa" : "Father Of" : "Pandu"}
+
+Ambarisha:
+{"Ambarisha" : "King Of" : "Ayodhya"}
+{"Ambarisha" : "Twenty-eighth Descendant Of" : "Ikshwaku"}
+{"Ambarisha" : "Appellation Of" : "Siva"}
+{"Ambarisha" : "Name Of One of the" : "Eighteen Hells"}
+
+Ambastha:
+{"Ambastha" : "Military People Of" : "Panjab"}
+{"Ambastha" : "Medical Tribe In" : "Manu"}
+
+Ambika:
+{"Ambika" : "Sister Of" : "Rudra"}
+{"Ambika" : "Identified With" : "Uma"}
+{"Ambika" : "Elder Widow Of" : "Vichitra-virya"}
+{"Ambika" : "Mother Of" : "Dhrita-rashira"}
+{"Vyasa" : "Father Of" : "Dhrita-rashira"}
+
+Ambikeya:
+{"Ambikeya" : "Metronymic Of" : "Ganesa"}
+{"Ambikeya" : "Metronymic Of" : "Skanda"}
+{"Ambikeya" : "Metronymic Of" : "Dhrita-rashira"}
+
+Amnaya:
+{"Amnaya" : "Refers To Aggregate of the" : "Vedas"}
+
+Amrita:
+{"Amrita" : "Is" : "God"}
+{"Amrita" : "Is" : "Water of Life"}
+{"Amrita" : "Known To" : "Vedas"}
+{"Amrita" : "Also Called" : "Nir-jara"}
+{"Amrita" : "Also Called" : "Piyusha"}
+{"Amrita" : "Produced At" : "Churning of the Ocean"}
+{"Amrita" : "Told In" : "Ramayana"}
+{"Amrita" : "Told In" : "Maha-bharata"}
+{"Amrita" : "Told In" : "Puranas"}
+{"Amrita" : "Was Beseeched By Gods From" : "Vishnu"}
+{"Mandara" : "Used As" : "Churning Stick"}
+{"Vasuki" : "Used As" : "Churning Rope"}
+{"Hari" : "Took Form Of" : "Kurma"}
+{"Hari" : "Also Known As" : "Vishnu"}
+{"Surabhi" : "Produced From" : "Churning of the Ocean"}
+{"Varuni" : "Produced From" : "Churning of the Ocean"}
+{"Parijata" : "Produced From" : "Churning of the Ocean"}
+{"Apsarasas" : "Produced From" : "Churning of the Ocean"}
+{"Moon" : "Produced From" : "Churning of the Ocean"}
+{"Mahadeva" : "Seized" : "Moon"}
+{"Poison" : "Produced From" : "Churning of the Ocean"}
+{"Snake-gods" : "Claimed" : "Poison"}
+{"Lakshmi" : "Produced From" : "Churning of the Ocean"}
+{"Dhanwantari" : "Produced From" : "Churning of the Ocean"}
+{"Dhanwantari" : "Physician Of" : "Gods"}
+{"Dhanwantari" : "Bore Cup of" : "Amrita"}
+{"Demons" : "Attempted To Steal" : "Amrita"}
+{"Vishnu" : "Interposed Against" : "Demons"}
+{"Vishnu" : "Gave Amrita To" : "Gods"}
+{"Gods" : "Quaffed" : "Amrita"}
+{"Gods" : "Defeated" : "Demons"}
+{"Garuda" : "Stole" : "Amrita"}
+
+Anadhrishti:
+{"Anadhrishti" : "Son Of" : "Ugrasena"}
+{"Anadhrishti" : "General Of" : "Yadavas"}
+
+Anaka-Dundubhi:
+{"Anaka-Dundubhi" : "Name Of" : "Vasu-deva"}
+
+Ananda:
+{"Ananda" : "Appellation Of" : "Siva"}
+{"Ananda" : "Appellation Of" : "Bala-rama"}
+
+Ananda Giri:
+{"Ananda Giri" : "Follower Of" : "Sankaracharya"}
+{"Ananda Giri" : "Teacher Of doctrines of" : "Sankaracharya"}
+{"Ananda Giri" : "Author Of" : "Sankara-vijaya"}
+
+Ananda Lahari:
+{"Ananda Lahari" : "Means" : "Wave of Joy"}
+{"Ananda Lahari" : "Poem Attributed To" : "Sankaracharya"}
+{"Ananda Lahari" : "Hymn Addressed To" : "Parvati"}
+
+Ananga:
+{"Ananga" : "Name Of" : "Kama"}
+
+Ananta:
+{"Ananta" : "Name Of" : "Serpent Sesha"}
+{"Ananta" : "Applied To" : "Vishnu"}
+{"Ananta" : "Applied To" : "Gods"}
+
+Anaranya:
+{"Anaranya" : "Descendant Of" : "Ikshwaku"}
+{"Anaranya" : "King Of" : "Ayodhya"}
+{"Anaranya" : "Summoned By" : "Ravana"}
+{"Anaranya" : "Defeated By" : "Ravana"}
+{"Anaranya" : "Predicted Death Of" : "Ravana"}
+
+Anargha Raghava:
+{"Anargha Raghava" : "Drama Written By" : "Murari Misra"}
+{"Anargha Raghava" : "Hero Of" : "Rama"}
+{"Anargha Raghava" : "Also Called" : "Murari Nafaka"}
+
+An-Arya:
+{"An-Arya" : "Not" : "Aryans"}
+
+Anasuya:
+{"Anasuya" : "Wife Of" : "Rishi Atri"}
+{"Anasuya" : "Mother Of" : "Durvasas"}
+{"Anasuya" : "Friend Of" : "Sakuntala"}
+{"Anasuya" : "Gave an Ointment for preserving Her Beauty To" : "Sita"}
+
+Andhaka:
+{"Andhaka" : "Is" : "Demon"}
+{"Andhaka" : "Son Of" : "Kasyapa"}
+{"Andhaka" : "Son Of" : "Diti"}
+{"Andhaka" : "Slain By" : "Siva"}
+{"Siva" : "Obtained Appellation" : "Andhaka-ripu"}
+{"Andhaka" : "Attempted To Carry Off" : "Parijata Tree"}
+{"Andhaka" : "Grandson Of" : "Kroshiri"}
+{"Andhaka" : "Son Of" : "Yudhajit"}
+{"Andhaka" : "Ancestor Of" : "Andhaka-Vrishnis Family"}
+{"Andhaka" : "Brother Of" : "Vrishni"}
+
+Andhra:
+{"Andhra" : "Country In" : "South India"}
+{"Andhra" : "Also Means" : "People of Andhra"}
+{"Andhra" : "Country of" : "Telingana"}
+
+Andhra-Bheitya:
+{"Andhra-Bheitya" : "Dynasty Of Kings in" : "Magadha"}
+
+Anga:
+{"Anga" : "Country of" : "Bengal Proper about Bhagalpur"}
+{"Champa or Champapuri" : "Is Capital of" : "Anga"}
+{"Champa" : "Also Kniwn As" : "Champapuri"}
+{"Anga_2" : "Also Means Supplement to the" : "Vedas"}
+
+Angada:
+{"Angada" : "Son Of" : "Lakshmana"}
+{"Angada" : "King Of" : "Angadi"}
+{"Angadi" : "Capital Of Country near" : " Himalaya"}
+{"Angada_2" : "Son Of" : "Gada"}
+{"Gada" : "Brother Of" : "Krishna"}
+{"Angada_2" : "Mother" : "Vrihati"}
+{"Angada_3" : "Son Of" : "Bali"}
+{"Angada_3" : "Protected By" : "Rama"}
+{"Angada_3" : "Fought Against" : "Ravana"}
+
+Angiras:
+{"Angiras" : "Is" : "Rishi"}
+{"Rig-veda" : "Many Hymns Of It Attributed To" : "Angiras"}
+{"Angiras" : "One Of" : "Seven Maharshi"}
+{"Angiras" : "One Of" : "Ten Prajapatis"}
+{"Angiras" : "Later Role" : "Inspired Lawgiver"}
+{"Angiras" : "Writer On" : "Astronomy"
+{"Angiras" : "Astronomical Personification" : "Brihaspati"}
+{"Brihaspati" : "Regent Of" : "Planet Jupiter"}
+{"Angiras" : "Called Priest of the" : "Gods"}
+{"Angiras" : "Called" : "Lord of Sacrifice"}
+{"Angiras" : "Epithet Or Synonym Of" : "Agni"}
+{"Angiras" : "Epithet For Father of" : "Agni"}
+{"Angiras" : "Son Of" : "Uru"}
+{"Angiras" : "Mother" : "Agneyi (Daughter of Agni)"}
+{"Angiras" : "Born From" : "Mouth of Brahma"}
+{"Havishmats" : "Sons of" : "Angiras"}
+{"Utathya" : "Sons of" : "Angiras"}
+{"Brihaspati" : "Sons of" : "Angiras"}
+{"Markandeya" : "Sons of" : "Angiras"}
+{"Rathi-tara" : "Is" : "Kshatriya"}
+{"Angirasas" : "Are Descendants of" : "Angiras"}
+{"Angirasas" : "Considered Descendants Of" : "Agni)"}
+{"Angirasas" : "Descended From" : "Prajapati"}
+{"Adityas" : "Descended From" : "Prajapati"}
+{"Angirasas" : "Tribes Mentioned In Puranas As" : "Brahmans"}
+{"Angirasas" : "Tribes Mentioned In Puranas As" : "Kshatriyas"}
+{"Atharva-veda" : "Hymns Are Called" : "Angirasas"}
+{"Atharvangirasas" : "Descendants of" : " Angiras"}
+
+Anila:
+{"Anila" : "Called" : "The Wind"}
+
+Anilas:
+{"Anilas" : "Are" : "Gana"}
+{"Anilas" : "Are counted" : "49"}
+{"Anilas" : "Connected With" : "Anila"}
+
+Animisha:
+{"Animisha" : "General Epithet Of" : "Gods"}
+
+Aniruddha:
+{"Aniruddha" : "Son Of" : "Pradyumna"}
+{"Aniruddha" : "Grandson Of" : "Krishna"}
+{"Aniruddha" : "Married" : "Subhadra"}
+{"Usha" : "Princess Of" : "Daitya"}
+{"Usha" : "Daughter Of" : "Bana"}
+{"Bana" : "Aided By" : "Siva"}
+{"Bana" : "Aided By" : "Skanda"}
+{"Krishna" : "Overcame" : "Siva"}
+{"Garuda" : "Wounded" : "Skanda"}
+{"Pradyumna" : "Wounded" : "Skanda"}
+{"Usha" : "Wife Of" : "Aniruddha"}
+{"Aniruddha" : "Also Called" : "Jhashanka"}
+{"Aniruddha" : "Also Called" : "Ushapati"}
+{"Aniruddha" : "Father Of" : "Vajra"}
+
+Anjana:
+{"Anjana_3" : "Elephant Of" : "West Quarter"}
+{"Anjana_2" : "Is" : "Serpent"}
+{"Anjana_2" : "Descended From" : "Kadru"}
+{"Anjana" : "Mother Of" : "Hanumat"}
+
+Anna-Purna:
+{"Anna-Purna" : "Form Of" : "Durga"}
+{"Anna-Purna" : "Worshipped For" : "Power of Giving Food"}
+
+Ansumat, Ansuman:
+{"Ansumat" : "Son Of" : "Asamanjas"}
+{"Ansumat" : "Grandson Of" : "Sagara"}
+
+Antaka:
+{"Antaka" : "Name Of" : "Yama"}
+
+Antariksha:
+{"Antariksha" : "Sphere Of" : "Gandharvas"}
+{"Antariksha" : "Sphere Of" : "Apsarases"}
+{"Antariksha" : "Sphere Of" : "Yakshas"}
+
+Antarvedi:
+
+Anu:
+{"Anu" : "Son Of" : "King Yayati"}
+{"Anu" : "Mother Of" : "Sarmishtha"}
+{"Anga" : "Descendants of" : "Anu"}
+{"Banga" : "Descendants of" : "Anu"}
+{"Kalinga" : "Descendants of" : "Anu"}
+
+Anukramani:
+{"Anukramani" : "Is" : "Anukramanika"}
+
+Anumatl:
+{"Anumatl" : "Personified As" : "Goddess"}
+{"Anumatl" : "Worshipped As" : "Goddess"}
+
+Anusara:
+{"Anusara" : "Is" : "Rakshasa"}
+
+Anuvinda:
+{"Anuvinda" : "Is King of" : "Ujjayini"}
+
+Aparanta:
+{"Aparanta" : "Country Mentioned In" : "Vishnu Purana"}
+{"Aparanta" : "Also Known As" : "Aparita"}
+{"Aparanta" : "Mentioned In" : "Hari-vansa"}
+{"Aparanta" : "Conquered By" : "Parasu-rama"}
+{"Parasu-rama" : "Beseeched" : "Varuna"}
+{"Parasu-rama" : "Bestowed Land Upon" : "Brahmans"}
+
+Aparna:
+{"Aparna" : "Eldest Daughter Of" : "Mena"}
+{"Aparna" : "Eldest Daughter Of" : "Himavat"}
+{"Aparna" : "Sister Of" : "Eka-parna"}
+{"Aparna" : "Sister Of" : "Eka-pala"}
+{"Eka-parna" : "Lived On" : "One Leaf"}
+{"Eka-pala" : "Lived On" : "One Palala"}
+{"Aparna" : "Became" : "Uma"}
+{"Uma" : "Wife Of" : "Siva"}
+
+Apastamba:
+{"Apastamba" : "Author Of" : "Sutras Connected With Black Yajur-veda"}
+{"Taittiriya Sanhita" : "Two Recensions Ascribed To" : "Apastamba"}
+
+Apava:
+{"Apava" : "Name Similar To" : "Narayana"}
+{"Apava" : "Performed Office Of" : "Creator Brahma"}
+{"Vishnu" : "Created" : "Viraj"}
+{"Viraj" : "Brought" : "First Man Into The World"}
+{"Apava" : "Name Of" : "Prajapati Vasishtha"}
+
+
+{"ARBUDA" : "Slain By" : "Indra"}
+{"ARISHTA" : "Son Of" : "Bali"}
+{"Arjuna" : "Son Of" : "Indra"}
+{"Arjuna" : "Also Known As" : "Aindri"}
+{"Arjuna" : "Student Of" : "Drona"}
+{"Parasurama" : "Instructor Of" : "Drona"}
+{"Arjuna" : "Married" : "Draupadi"}
+{"Arjuna" : "Married" : "Ulupi"}
+{"Ulupi" : "Is" : "Naga Princess"}
+{"Arjuna" : "Married" : "Chitrangada"}
+{"Chitrangada" : "Daughter Of" : "King of Manipura"}
+{"Arjuna" : "Married" : "Subhadra"}
+{"Subhadra" : "Sister Of" : "Krishna"}
+{"Arjuna" : "Father Of" : "Iravat"}
+{"Ulupi" : "Mother Of" : "Iravat"}
+{"Arjuna" : "Father Of" : "Babhruvahana"}
+{"Chitrangada" : "Mother Of" : "Babhruvahana"}
+{"Arjuna" : "Father Of" : "Abhimanyu"}
+{"Subhadra" : "Mother Of" : "Abhimanyu"}
+{"Agni" : "Gave Bow To" : "Arjuna"}
+{"Arjuna" : "Assisted" : "Agni"}
+{"Indra" : "Father Of" : "Arjuna"}
+{"Siva" : "Gave Weapon To" : "Arjuna"}
+{"Varuna" : "Gave Weapon To" : "Arjuna"}
+{"Yama" : "Gave Weapon To" : "Arjuna"}
+{"Kuvera" : "Gave Weapon To" : "Arjuna"}
+{"Indra" : "Gave Weapon To" : "Arjuna"}
+{"Arjuna" : "Fought" : "Siva"}
+{"Siva" : "Appeared As" : "Kirata"}
+{"Arjuna" : "Mortally Wounded" : "Bhishma"}
+{"Arjuna" : "Defeated" : "Susarman"}
+{"Arjuna" : "Killed" : "Jayadratha"}
+{"Arjuna" : "Killed" : "Karna"}
+{"Krishna" : "Charioteer Of" : "Arjuna"}
+{"Krishna" : "Recited" : "Bhagavadgita"}
+{"Arjuna" : "Served" : "Virata"}
+{"Arjuna" : "Defeated" : "King of Trigarta"}
+{"Abhimanyu" : "Father Of" : "Parikshit"}
+{"Arjuna" : "Also Known As" : "Bibhatsu"}
+{"Arjuna" : "Also Known As" : "Gudakesa"}
+{"Arjuna" : "Also Known As" : "Dhananjaya"}
+{"Arjuna" : "Also Known As" : "Jishnu"}
+{"Arjuna" : "Also Known As" : "Kiritin"}
+{"Arjuna" : "Also Known As" : "Pakasasani"}
+{"Arjuna" : "Also Known As" : "Phalguna"}
+{"Arjuna" : "Also Known As" : "Savyasachin"}
+{"Arjuna" : "Also Known As" : "Swetavahana"}
+{"Arjuna" : "Also Known As" : "Partha"}
+{"ARJUNA" : "Son Of" : "Krita-virya"}
+
+{"ARUNA" : "Son Of" : "Kasyapa"}
+{"ARUNA" : "Called" : "Rumra"}
+{"ASAMANJAS" : "Son Of" : "Sagara"}
+{"ASANGA" : "Son Of" : "Playoga"}
+{"ASHTAVAKRA" : "Son Of" : "Kahoda"}
+{"ASHTAVAKRA" : "Son Of" : "Varuna"}
+{"ASHTAVAKRA" : "King Of" : "Mithila"}
+{"ASMAKA" : "Son Of" : "Madayanti"}
+{"ASMAKA" : "Wife Of" : "Kalmasha-pada"}
+{"ASOKA" : "Called" : "Piyadasi"}
+{"ASWALAYANA" : "Pupil Of" : "Saunaka"}
+{"ASWATTHAMAN" : "Son Of" : "Drona"}
+{"ASWATTHAMAN" : "Son Of" : "Drupada"}
+{"ASWINS" : "Called" : "Aswini"}
+{"ASWINS" : "Called" : "Dasras"}
+{"ATHARVAN" : "Son Of" : "Brahma"}
+{"ATHARVAN" : "Called" : "Atharvanas"}
+{"AURVA" : "Son Of" : "Urva"}
+{"AURVA" : "Son Of" : "Bhrigu"}
+{"AURVA" : "Son Of" : "Aurva"}
+{"AURVA" : "Wife Of" : "King"}
+{"AURVA" : "Father Of" : "Jamadagni"}
+{"AURVA" : "Grandson Of" : "Bhrigu"}
+{"AURVA" : "Called" : "Haya-siras"}
+{"AURVA" : "Called" : "Sagara"}
+{"AURVA" : "Called" : "Badavanala"}
+{"AURVA" : "Called" : "Kaka-dhwaja"}
+{"AURVA" : "Named" : "Krita-virya"}
+{"AURVA" : "Named" : "Zchika"}
+{"AVATARA" : "Incarnation Of" : "Vishnu"}
+{"AVATARA" : "Manifestation Of" : "Vishnu"}
+{"AYUS" : "Son Of" : "Purüravas"}
+{"AYUS" : "Son Of" : "Urvasis"}
+{"AYUS" : "Father Of" : "Nahusha"}
+{"Babhruvahana" : "Son Of" : "Arjuna"}
+{"Chitrangada" : "Mother Of" : "Babhruvahana"}
+{"Arjuna" : "Fought With" : "Babhruvahana"}
+{"Babhruvahana" : "Killed" : "Arjuna"}
+{"BADARI" : "Lord Of" : "Badari"}
+{"BADARI" : "Form Of" : "Nara-Narayana"}
+{"BAHU" : "Father Of" : "Sagara"}
+
+{"Balarama" : "Also Known As" : "Balabhadra"}
+{"Balarama" : "Also Known As" : "Baladeva"}
+{"Balarama" : "Brother Of" : "Krishna"}
+{"Balarama" : "Incarnation Of" : "Vishnu"}
+{"Balarama" : "Son Of" : "Devaki"}
+{"Krishna" : "Son Of" : "Devaki"}
+{"Rohini" : "Mother Figure Of" : "Balarama"}
+{"Balarama" : "Killed" : "Dhenuka"}
+{"Krishna" : "Killed" : "Kansa"}
+{"Balarama" : "Dragged" : "Yamuna"}
+{"Yamuna" : "Appeased" : "Balarama"}
+{"Balarama" : "Killed" : "Rukmin"}
+{"Samba" : "Son Of" : "Krishna"}
+{"Duryodhana" : "Imprisoned" : "Samba"}
+{"Balarama" : "Killed" : "Dwivida"}
+{"Balarama" : "Teacher Of" : "Duryodhana"}
+{"Balarama" : "Teacher Of" : "Bhima"}
+{"Bhima" : "Fought" : "Duryodhana"}
+{"Balarama" : "Died Before" : "Krishna"}
+{"Balarama" : "Incarnation Of" : "Sesha"}
+{"Balarama" : "Husband Of" : "Revati"}
+{"Revati" : "Daughter Of" : "Raivata"}
+{"Balarama" : "Father Of" : "Nisacha"}
+{"Balarama" : "Father Of" : "Ulmuka"}
+{"Balarama" : "Also Known As" : "Madhupriya"}
+{"Balarama" : "Also Known As" : "Priyamadhu"}
+{"Balarama" : "Also Known As" : "Nilavastra"}
+{"Balarama" : "Also Known As" : "Phala"}
+{"Balarama" : "Also Known As" : "Hala"}
+{"Balarama" : "Also Known As" : "Halayudha"}
+{"Balarama" : "Also Known As" : "Halabhrit"}
+{"Balarama" : "Also Known As" : "Langali"}
+{"Balarama" : "Also Known As" : "Sankarshana"}
+{"Balarama" : "Also Known As" : "Musalin"}
+{"Balarama" : "Also Known As" : "Taladhwaja"}
+{"Balarama" : "Also Known As" : "Guptachara"}
+{"Balarama" : "Also Known As" : "Kampala"}
+{"Balarama" : "Also Known As" : "Samvartaka"}
+
+
+{"BALEYA" : "Descendant Of" : "Bali"}
+
+{"Bali" : "Son Of" : "Virochana"}
+{"Virochana" : "Son Of" : "Prahlada"}
+{"Prahlada" : "Son Of" : "Hiranyakasipu"}
+{"Bali" : "Husband Of" : "Vindhyavali"}
+{"Bali" : "Defeated" : "Indra"}
+{"Vishnu" : "Restrained" : "Bali"}
+
+{"Bali" : "Monkey King Of" : "Kishkindhya"}
+{"Bali" : "Slain By" : "Rama"}
+{"Rama" : "Ally Of" : "Sugriva"}
+{"Rama" : "Friend Of" : "Sugriva"}
+{"Sugriva" : "Brother Of" : "Bali"}
+{"Bali" : "Son Of" : "Indra"}
+{"Bali" : "Husband Of" : "Tara"}
+{"Bali" : "Father Of" : "Angada"}
+{"Bali" : "Father Of" : "Tara"}
+
+
+{"BANA" : "Son Of" : "Bali"}
+{"BANA" : "Father Of" : "Usha"}
+{"Aniruddha" : "Grandson Of" : "Krishna"}
+{"BANA" : "Friend Of" : "Siva"}
+{"BHADRA" : "Wife Of" : "Utathya"}
+{"BHADRACHARU" : "Son Of" : "Krishna"}
+{"BHADRACHARU" : "Son Of" : "Rukmini"}
+
+{"Bharata 1" : "Associated With" : "Viswamitra"}
+{"Bharata 1" : "Ancestor Of" : "Bharatas"}
+
+{"Bharata 2" : "Devotee Of" : "Vishnu"}
+
+{"Bharata 3" : "Son Of" : "Dasaratha"}
+{"Bharata 3" : "Son Of" : "Kaikeyi"}
+{"Bharata 3" : "Half-Brother Of" : "Rama"}
+{"Bharata 3" : "Educated By" : "Aswapati"}
+{"Aswapati" : "Father Of" : "Kaikeyi"}
+{"Bharata 3" : "Husband Of" : "Mandavi"}
+{"Mandavi" : "Cousin Of" : "Sita"}
+
+{"Bharata 4" : "Son Of" : "Dushyanta"}
+{"Bharata 4" : "Son Of" : "Sakuntala"}
+{"Kuru" : "Descendant Of" : "Bharata 4"}
+{"Santanu" : "Descendant Of" : "Kuru"}
+{"Vichitravirya" : "Son Of" : "Santanu"}
+{"Krishna Dwaipayana" : "Brother Of" : "Vichitravirya"}
+{"Dhritarashtra" : "Son Of" : "Krishna Dwaipayana"}
+{"Pandu" : "Son Of" : "Krishna Dwaipayana"}
+{"Pandavas" : "Descendants Of" : "Bharata 4"}
+{"Kauravas" : "Descendants Of" : "Bharata 4"}
+
+{"BHARGAVA" : "Descendant Of" : "Bhrigu"}
+{"BHARTRTLHARIL" : "Brother Of" : "Vikramaditya"}
+{"BHARTRTLHARIL" : "Called" : "Vakyapadiya"}
+{"BHAVA" : "Also Known As" : "Srikantha"}
+
+{"Bhima" : "Also Known As" : "Bhimasena"}
+{"Bhima" : "Son Of" : "Vayu"}
+{"Bhima" : "Trained By" : "Drona"}
+{"Bhima" : "Trained By" : "Balarama"}
+{"Duryodhana" : "Cousin Of" : "Bhima"}
+{"Duryodhana" : "Poisoned" : "Bhima"}
+{"Bhima" : "Brother Of" : "Pandavas"}
+{"Karna" : "Enemy Of" : "Pandavas"}
+{"Bhima" : "Killed" : "Purochana"}
+{"Bhima" : "Killed" : "Hidimba"}
+{"Bhima" : "Married" : "Hidimbi"}
+{"Bhima" : "Killed" : "Vaka"}
+{"Bhima" : "Killed" : "Kirmira"}
+{"Bhima" : "Defeated" : "Jarasandha"}
+{"Bhima" : "Brother Of" : "Hanuman"}
+{"Bhima" : "Served" : "Virata"}
+{"Bhima" : "Killed" : "Jimuta"}
+{"Kichaka" : "Brother-In-Law Of" : "Virata"}
+{"Bhima" : "Killed" : "Kichaka"}
+{"Susarman" : "King Of" : "Trigartta"}
+{"Susarman" : "Allied With" : "Kauravas"}
+{"Bhima" : "Defeated" : "Susarman"}
+{"Bhima" : "Killed" : "Duhsasana"}
+{"Bhima" : "Killed" : "Duryodhana"}
+{"Yudhishthira" : "Brother Of" : "Bhima"}
+{"Dhritarashtra" : "Father Of" : "Duryodhana"}
+{"Bhima" : "Husband Of" : "Hidimba"}
+{"Bhima" : "Father Of" : "Ghatotkacha"}
+{"Bhima" : "Husband Of" : "Balandhara"}
+{"Balandhara" : "Daughter Of" : "King of Kasi"}
+{"Bhima" : "Father Of" : "Sarvatraga"}
+{"Bhima" : "Also Known As" : "Bahusalin"}
+{"Bhima" : "Also Known As" : "Jarasandhajit"}
+
+{"Bhishma" : "Son Of" : "Santanu"}
+{"Bhishma" : "Son Of" : "Ganga"}
+{"Bhishma" : "Also Known As" : "Santanava"}
+{"Bhishma" : "Also Known As" : "Gangeya"}
+{"Bhishma" : "Also Known As" : "Nadija"}
+{"Santanu" : "Married" : "Satyavati"}
+{"Vichitravirya" : "Son Of" : "Santanu"}
+{"Bhishma" : "Guardian Of" : "Widows of Vichitravirya"}
+{"Krishna Dwaipayana" : "Son Of" : "Satyavati"}
+{"Krishna Dwaipayana" : "Brother Of" : "Vichitravirya"}
+{"Pandu" : "Son Of" : "Krishna Dwaipayana"}
+{"Dhritarashtra" : "Son Of" : "Krishna Dwaipayana"}
+{"Bhishma" : "Trainer Of" : "Pandavas"}
+{"Bhishma" : "Trainer Of" : "Kauravas"}
+{"Bhishma" : "Commander Of" : "Kauravas"}
+{"Bhishma" : "Fought Against" : "Arjuna"}
+{"Sikhandin" : "Wounded" : "Bhishma"}
+{"Arjuna" : "Wounded" : "Bhishma"}
+{"Bhishma" : "Also Known As" : "Tarpanechchhu"}
+{"Bhishma" : "Also Known As" : "Talaketu"}
+
+
+{"BHISHMAKA" : "Wife Of" : "Krishna"}
+{"BHISHMAKA" : "Father Of" : "Rukmin"}
+{"BHISHMAKA" : "King Of" : "Vidarbha"}
+{"BHOJA" : "King Of" : "Dhar"}
+{"BHUVANESWARA" : "Called" : "Ekamrakanana"}
+
+{"BRAHMA" : "Called" : "Kalahansa"}
+{"BRAHMA" : "Called" : "Brahma"}
+{"BRAHMA" : "Father Of" : "Marichi"}
+{"BRAHMA" : "Father Of" : "Daksha"}
+{"BRAHMA" : "Called" : "Chatur-anana"}
+{"BRAHMA" : "Called" : "Brahmi"}
+{"BRAHMA" : "Called" : "Hansa-vahana"}
+{"BRAHMA" : "Called" : "Brahma-vrinda"}
+{"BRAHMA" : "Called" : "Narayana"}
+{"BRAHMA" : "Called" : "Nabhi-ja"}
+{"BRAHMA" : "Called" : "Sanat-kumara"}
+{"BRAHMA" : "Called" : "Vidhi"}
+{"BRAHMA" : "Named" : "Vach"}
+{"BRAHMA" : "Incarnation Of" : "Vishnu"}
+{"BRAHMA" : "Manifestation Of" : "Vishnu"}
+
+{"BRAHMANA" : "Called" : "Aswalayana"}
+{"BRAHMANA" : "Called" : "Kaushitaki"}
+{"BRAHMANA" : "Called" : "Aranyakas"}
+{"BRAHMANDA PURANA" : "Daughter Of" : "Brahma"}
+{"BRAHMA SUTRAS" : "Called" : "Brahma"}
+{"BRAHMAVARTTA" : "Named" : "Brahmavartta"}
+{"BUDHA" : "Son Of" : "Soma"}
+{"BUDHA" : "Wife Of" : "Brihaspati"}
+{"BUDHA" : "Called" : "Praharshana"}
+{"BUDHA" : "Incarnation Of" : "Krishna"}
+{"CHAMPA" : "Son Of" : "Prithulaksha"}
+{"CHAMPA" : "Descendant Of" : "Yayati"}
+{"CHAMPA" : "Called" : "Malini"}
+{"CHANAKYA" : "Called" : "Chanakya"}
+{"CHANAKYA" : "Called" : "Mudra-"}
+{"CHANDA" : "Called" : "Mahisha"}
+{"CHANDRA" : "Son Of" : "Lakshmana"}
+{"CHANDRA" : "Called" : "Erranaboas"}
+{"CHANDRA" : "Called" : "Mauryas"}
+{"CHANDRA" : "Called" : "Manichaka"}
+{"CHANDRA" : "Named" : "Mahapadma"}
+{"CHANDRA" : "Named" : "Mura"}
+{"CHARVAKA" : "Friend Of" : "Dur-yodhana"}
+{"CHEKITANA" : "Son Of" : "Dhrishta-ketu"}
+{"CHHAYA" : "Son Of" : "Sanjna"}
+{"CHHAYA" : "Daughter Of" : "Viswakarma"}
+{"CHHAYA" : "Mother Of" : "Saturn"}
+{"CHHAYA" : "Mother Of" : "Yama"}
+{"CHHAYA" : "Sister Of" : "Sanjna"}
+{"CHHAYA" : "Called" : "Divyaratna"}
+{"CHITRANGADA" : "Son Of" : "King"}
+{"CHITRANGADA" : "Brother Of" : "Bhishma"}
+{"CHITRANGADA" : "Daughter Of" : "King"}
+{"CHITRANGADA" : "Wife Of" : "Arjuna"}
+{"CHITRANGADA" : "Mother Of" : "Babhruvahana"}
+{"CHITRANGADA" : "Named" : "Vaidya-"}
+{"CHYAVANA" : "Daughter Of" : "King"}
+{"CHYAVANA" : "Wife Of" : "Bhrigu"}
+{"CHYAVANA" : "Husband Of" : "Arushi"}
+{"CHYAVANA" : "Father Of" : "Aurva"}
+{"CHYAVANA" : "Father Of" : "Harita"}
+{"CHYAVANA" : "Descendant Of" : "Manu"}
+{"CHYAVANA" : "Called" : "Mada"}
+{"DADHYANCH" : "Son Of" : "Atharvan"}
+{"DAITYAS" : "Called" : "Kratudwishas"}
+{"DAKINI" : "Called" : "Asrapas"}
+
+{"Daksha" : "Son Of" : "Brahma"}
+{"Daksha" : "One Of" : "Prajapatis"}
+{"Daksha" : "Born From" : "Aditi"}
+{"Aditi" : "Born From" : "Daksha"}
+{"Daksha" : "One Of" : "Adityas"}
+{"Daksha" : "One Of" : "Viswadevas"}
+{"Daksha" : "Married" : "Prasuti"}
+{"Prasuti" : "Daughter Of" : "Priyavrata"}
+{"Priyavrata" : "Descendant Of" : "Manu"}
+{"Sati" : "Daughter Of" : "Daksha"}
+{"Sati" : "Married" : "Siva"}
+{"Sati" : "Killed Herself Because Of" : "Daksha"}
+{"Daksha" : "Cursed By" : "Siva"}
+{"Daksha" : "Son Of" : "Prachetasas"}
+{"Daksha" : "Son Of" : "Marisha"}
+{"Daksha" : "Father Of" : "Krodha"}
+{"Daksha" : "Father Of" : "Tamas"}
+{"Daksha" : "Father Of" : "Dama"}
+{"Daksha" : "Father Of" : "Vikrita"}
+{"Daksha" : "Father Of" : "Angiras"}
+{"Daksha" : "Father Of" : "Kardama"}
+{"Daksha" : "Father Of" : "Aswa"}
+{"Daksha" : "Father Of" : "Soma"}
+{"Daksha" : "Offspring Of" : "Soma"}
+{"Uma" : "Wife Of" : "Siva"}
+{"Uma" : "Second Birth Of" : "Sati"}
+{"Siva" : "Created" : "Virabhadra"}
+{"Virabhadra" : "Served" : "Siva"}
+{"Indra" : "Attacked By" : "Virabhadra"}
+{"Yama" : "Attacked By" : "Virabhadra"}
+{"Saraswati" : "Attacked By" : "Virabhadra"}
+{"Bhaga" : "Attacked By" : "Virabhadra"}
+{"Pushan" : "Attacked By" : "Virabhadra"}
+{"Chandra" : "Attacked By" : "Virabhadra"}
+{"Vahni" : "Attacked By" : "Virabhadra"}
+{"Bhrigu" : "Attacked By" : "Virabhadra"}
+{"Daksha" : "Decapitated By" : "Siva"}
+{"Siva" : "Restored To Life" : "Daksha"}
+
+{"DAKSHINACHARIS" : "Form Of" : "Sakta"}
+{"DAMA" : "Father Of" : "Sisupala"}
+{"DAMA" : "King Of" : "Chedi"}
+{"DAMA" : "Named" : "Vapushmat"}
+{"DAMAYANTI" : "Wife Of" : "Nala"}
+{"DANDAKA" : "Son Of" : "Vriddhasarma"}
+{"DARSANA" : "Called" : "Patanjala"}
+{"DARSANA" : "Named" : "Kanada"}
+{"DASANANA" : "Son Of" : "Aja"}
+{"DASANANA" : "King Of" : "Ayodhya"}
+{"DASANANA" : "Manifestation Of" : "Vishnu"}
+{"DATTATREYA" : "Son Of" : "Atri"}
+{"DEVAKA" : "Father Of" : "Devaki"}
+{"DEVAKA" : "Brother Of" : "Ugrasena"}
+{"DEVALA" : "Father Of" : "Panini"}
+{"DEVI" : "Daughter Of" : "Himavat"}
+{"DEVI" : "Called" : "Adri-ja"}
+{"DHANWANTARL 1" : "Son Of" : "Dirgha-"}
+{"DHARMARANYA" : "Son Of" : "Kusa"}
+{"DHARMARANYA" : "Son Of" : "Yama"}
+{"DHATAI" : "Son Of" : "Brahma"}
+{"DHATAI" : "Epithet Of" : "Vishnu"}
+{"DHAUMYA" : "Brother Of" : "Devala"}
+
+{"Dhrishta-dyumna" : "Brother Of" : "Draupadi"}
+{"Dhrishta-dyumna" : "Commander Of" : "Pandava Armies"}
+
+{"Dhrishta-dyumna" : "Killed" : "Drona"}
+{"Drona" : "Killed" : "Father of Dhrishta-dyumna"}
+
+{"Aswatthaman" : "Son Of" : "Drona"}
+{"Aswatthaman" : "Killed" : "Dhrishta-dyumna"}
+
+{"Dhrishta-ketu" : "Son Of" : "Dhrishta-dyumna"}
+
+{"Dhrishta-ketu" : "Son Of" : "Sisupala"}
+{"Sisupala" : "King Of" : "Chedi"}
+{"Dhrishta-ketu" : "Ally Of" : "Pandavas"}
+
+{"Dhrishta-ketu" : "King Of" : "Kekayas"}
+{"Dhrishta-ketu" : "Ally Of" : "Pandavas"}
+
+{"Dhrishta-ketu" : "Son Of" : "Satyadhriti"}
+{"Dhrishta-ketu" : "Son Of" : "Nriga"}
+
+{"Dhritarashtra" : "Son Of" : "Vichitra-virya"}
+{"Dhritarashtra" : "Son Of" : "Vyasa"}
+{"Dhritarashtra" : "Brother Of" : "Pandu"}
+{"Dhritarashtra" : "Son Of" : "Ambika"}
+
+{"Dhritarashtra" : "Husband Of" : "Gandhari"}
+{"Gandhari" : "Mother Of" : "Duryodhana"}
+
+{"Dhritarashtra" : "Father Of" : "Kauravas"}
+
+{"Dhritarashtra" : "Died With" : "Gandhari"}
+
+{"Dhritarashtra" : "Is" : "Serpent"}
+
+{"Manu Swayambhuva" : "Father Of" : "Priya-vrata"}
+{"Manu Swayambhuva" : "Father Of" : "Uttanapada"}
+
+{"Uttanapada" : "Husband Of" : "Suruchi"}
+{"Uttanapada" : "Husband Of" : "Suniti"}
+
+{"Suruchi" : "Mother Of" : "Uttama"}
+{"Suniti" : "Mother Of" : "Dhruva"}
+
+{"Suruchi" : "Mistreated" : "Dhruva"}
+
+{"Dhruva" : "Devotee Of" : "Vishnu"}
+{"Vishnu" : "Elevated" : "Dhruva"}
+
+{"Dhruva" : "Also Known As" : "Auttanapadi"}
+{"Dhruva" : "Also Known As" : "Grahadhara"}
+
+{"DHUNDHU" : "Killed By" : "King"}
+{"DHUNDHU" : "Slayer Of" : "Dhundhu"}
+{"DILIPA" : "Son Of" : "Ansumat"}
+{"DILIPA" : "Son Of" : "Dirgha-tamas"}
+{"DILIPA" : "Son Of" : "Kasi-raja"}
+{"DILIPA" : "Wife Of" : "Bali"}
+{"DILIPA" : "Father Of" : "Bhagiratha"}
+{"DILIPA" : "Father Of" : "Kakshivat"}
+{"DILIPA" : "Ancestor Of" : "Rama"}
+
+{"Bivo-dasa 1" : "Associated With" : "Indra"}
+{"Indra" : "Demolished Cities For" : "Bivo-dasa 1"}
+
+{"Bivo-dasa 2" : "Twin-Brother Of" : "Ahalya"}
+{"Gods" : "Delivered" : "Bivo-dasa 2"}
+{"Bivo-dasa 2" : "Oppressed By" : "Sambara"}
+{"Bivo-dasa 2" : "Also Known As" : "Atithi-gwa"}
+
+{"Bivo-dasa 3" : "Son Of" : "Bhima-ratha"}
+{"Bivo-dasa 3" : "Father Of" : "Pratardana"}
+{"Bharadwaja" : "Performed Sacrifice For" : "Bivo-dasa 3"}
+{"Bivo-dasa 3" : "Also Known As" : "Dhanwantari"}
+
+{"Draupadi" : "Daughter Of" : "Drupada"}
+{"Drupada" : "King Of" : "Panchala"}
+{"Draupadi" : "Wife Of" : "Pandavas"}
+{"Arjuna" : "Married" : "Subhadra"}
+{"Duryodhana" : "Humiliated" : "Draupadi"}
+{"Duhsasana" : "Dragged" : "Draupadi"}
+{"Krishna" : "Protected" : "Draupadi"}
+{"Jayadratha" : "King Of" : "Sindhu"}
+{"Jayadratha" : "Abducted" : "Draupadi"}
+{"Pandavas" : "Served" : "Virata"}
+{"Draupadi" : "Served" : "Queen of Virata"}
+{"Kichaka" : "Brother Of" : "Queen of Virata"}
+{"Kichaka" : "Harassed" : "Draupadi"}
+{"Bhima" : "Killed" : "Kichaka"}
+{"Draupadi" : "Mother Of" : "Prativindhya"}
+{"Prativindhya" : "Son Of" : "Yudhishthira"}
+{"Draupadi" : "Mother Of" : "Srutasoma"}
+{"Srutasoma" : "Son Of" : "Bhima"}
+{"Draupadi" : "Mother Of" : "Srutakirtti"}
+{"Srutakirtti" : "Son Of" : "Arjuna"}
+{"Draupadi" : "Mother Of" : "Satanika"}
+{"Satanika" : "Son Of" : "Nakula"}
+{"Draupadi" : "Mother Of" : "Srutakarman"}
+{"Srutakarman" : "Son Of" : "Sahadeva"}
+{"Draupadi" : "Also Known As" : "Krishna"}
+{"Draupadi" : "Also Known As" : "Yajnaseni"}
+{"Draupadi" : "Also Known As" : "Parshati"}
+{"Draupadi" : "Also Known As" : "Panchali"}
+{"Draupadi" : "Also Known As" : "Sairindhri"}
+{"Draupadi" : "Also Known As" : "Panchami"}
+{"Draupadi" : "Also Known As" : "Nitya-yauvani"}
+
+{"Drona" : "Son Of" : "Bharadwaja"}
+{"Drona" : "Husband Of" : "Kripa"}
+{"Kripa" : "Half-Sister Of" : "Bhishma"}
+{"Drona" : "Father Of" : "Aswatthaman"}
+{"Drona" : "Teacher Of" : "Kauravas"}
+{"Drona" : "Teacher Of" : "Pandavas"}
+{"Drona" : "Also Known As" : "Dronacharya"}
+{"Drona" : "Enemy Of" : "Drupada"}
+{"Drupada" : "King Of" : "Panchala"}
+{"Drona" : "Killed" : "Drupada"}
+{"Dhrishtadyumna" : "Killed" : "Drona"}
+{"Drona" : "Also Known As" : "Kuta-ja"}
+
+{"DRUHYU" : "Son Of" : "Yayati"}
+
+{"Drupada" : "King Of" : "Panchala"}
+{"Drupada" : "Son Of" : "Prishata"}
+{"Drupada" : "Also Known As" : "Yajna-sena"}
+{"Drupada" : "Schoolfellow Of" : "Drona"}
+{"Drupada" : "Offended" : "Drona"}
+{"Drona" : "Ordered Capture Of" : "Drupada"}
+{"Kauravas" : "Attacked" : "Drupada"}
+{"Pandavas" : "Captured" : "Drupada"}
+{"Drona" : "Spared" : "Drupada"}
+{"Drona" : "Restored Kingdom To" : "Drupada"}
+{"Drupada" : "Father Of" : "Dhrishtadyumna"}
+{"Drupada" : "Father Of" : "Krishna"}
+{"Krishna" : "Also Known As" : "Draupadi"}
+{"Drupada" : "Consented Marriage Of" : "Draupadi"}
+{"Draupadi" : "Chose" : "Arjuna"}
+{"Draupadi" : "Wife Of" : "Pandavas"}
+{"Drupada" : "Ally Of" : "Pandavas"}
+{"Drona" : "Killed" : "Drupada"}
+{"Dhrishtadyumna" : "Killed" : "Drona"}
+{"Drupada" : "Father Of" : "Sikhandin"}
+{"Drupada" : "Father Of" : "Sikhandini"}
+
+{"Duhsala" : "Daughter Of" : "Dhritarashtra"}
+{"Duhsala" : "Wife Of" : "Jayadratha"}
+{"Duhsasana" : "Son Of" : "Dhritarashtra"}
+{"Duhsasana" : "Abused" : "Draupadi"}
+{"Bhima" : "Killed" : "Duhsasana"}
+{"Duhsala" : "Daughter Of" : "Dhritarashtra"}
+{"Duhsala" : "Wife Of" : "Jayadratha"}
+{"Duhsasana" : "Son Of" : "Dhritarashtra"}
+{"Duhsasana" : "Abused" : "Draupadi"}
+{"Duhsasana" : "Dragged" : "Draupadi"}
+{"Bhima" : "Killed" : "Duhsasana"}
+{"Durga" : "Commentator Of" : "Nirukta"}
+{"Durga" : "Wife Of" : "Siva"}
+
+
+{"Durvasas" : "Son Of" : "Atri"}
+{"Durvasas" : "Son Of" : "Anasuya"}
+{"Durvasas" : "Emanation Of" : "Siva"}
+
+{"Durvasas" : "Cursed" : "Sakuntala"}
+{"Durvasas" : "Blessed" : "Kunti"}
+{"Kunti" : "Mother By" : "Sun"}
+
+{"Durvasas" : "Cursed" : "Indra"}
+{"Indra" : "Overpowered By" : "Asuras"}
+
+{"Gods" : "Resorted To" : "Vishnu"}
+{"Vishnu" : "Advised" : "Gods"}
+
+{"Durvasas" : "Cursed" : "Krishna"}
+
+{"Duryodhana" : "Son Of" : "Dhritarashtra"}
+{"Duryodhana" : "Leader Of" : "Kauravas"}
+
+{"Duryodhana" : "Opposed" : "Yudhishthira"}
+
+{"Duryodhana" : "Plotted Against" : "Pandavas"}
+
+{"Sakuni" : "Assisted" : "Duryodhana"}
+{"Duryodhana" : "Defeated" : "Yudhishthira"}
+
+{"Duryodhana" : "Humiliated" : "Draupadi"}
+
+{"Bhima" : "Vowed Against" : "Duryodhana"}
+
+{"Dhritarashtra" : "Intervened For" : "Pandavas"}
+
+{"Gandharvas" : "Captured" : "Duryodhana"}
+{"Pandavas" : "Rescued" : "Duryodhana"}
+
+{"Duryodhana" : "Sought Aid Of" : "Krishna"}
+{"Duryodhana" : "Accepted Army Of" : "Krishna"}
+
+{"Duryodhana" : "Fought" : "Bhima"}
+{"Bhima" : "Killed" : "Dur-yodhana"}
+
+{"Aswatthaman" : "Son Of" : "Drona"}
+{"Duryodhana" : "Directed" : "Aswatthaman"}
+{"Aswatthaman" : "Killed" : "Sons of Pandavas"}
+{"Duryodhana" : "Reproached" : "Aswatthaman"}
+{"Duryodhana" : "Also Known As" : "Suyodhana"}
+
+
+{"DUSHMANTA" : "Husband Of" : "Sakuntala"}
+{"DWARAKA" : "Called" : "Abdhi-nagari"}
+{"DWIVIDA" : "Ally Of" : "Rama"}
+{"DYAUS" : "Father Of" : "Ushas"}
+{"EKALAVYA" : "Son Of" : "Deva-sravas"}
+{"EKALAVYA" : "Wife Of" : "Siva"}
+{"EKALAVYA" : "Brother Of" : "Vasu-"}
+{"EKALAVYA" : "Brother Of" : "Satru-ghna"}
+{"EKALAVYA" : "Grandson Of" : "Deva-sravas"}
+{"EKALAVYA" : "Aunt Of" : "Siva"}
+{"EKALAVYA" : "Killed By" : "Krishna"}
+{"EKASHTAKA" : "Daughter Of" : "Prajapati"}
+{"EKASHTAKA" : "Mother Of" : "Indra"}
+{"GADA" : "Brother Of" : "Krishna"}
+{"GADHI" : "Son Of" : "Kusamba"}
+{"GADHI" : "Father Of" : "Viswamitra"}
+{"GALAVA" : "Son Of" : "Viswamitra"}
+{"GALAVA" : "King Of" : "Ayodhya"}
+{"GALAVA" : "King Of" : "Kasi"}
+{"GALAVA" : "King Of" : "Bhoja"}
+
+{"Gandhari" : "daughter" : "Subala"}
+{"Subala" : "king" : "Gandhara"}
+{"Gandhari" : "wife" : "Dhritarashtra"}
+{"Gandhari" : "mother" : "Duryodhana"}
+{"Gandhari" : "mother" : "Kauravas"}
+{"Gandhari" : "mother" : "Duhsala"}
+{"Vyasa" : "blessed" : "Gandhari"}
+{"Gandhari" : "also known as" : "Saubali"}
+{"Gandhari" : "also known as" : "Saubaleyi"}
+
+{"Ganesa" : "also known as" : "Ganapati"}
+{"Ganesa" : "son" : "Siva"}
+{"Ganesa" : "son" : "Parvati"}
+{"Ganesa" : "wrote" : "Mahabharata"}
+{"Vyasa" : "dictated to" : "Ganesa"}
+{"Parasurama" : "cut tusk of" : "Ganesa"}
+{"Ganesa" : "also known as" : "Ekadanta"}
+{"Ganesa" : "also known as" : "Ekadanshira"}
+{"Ganesa" : "also known as" : "Akhuratha"}
+{"Ganesa" : "also known as" : "Gajanana"}
+{"Ganesa" : "also known as" : "Gajavadana"}
+{"Ganesa" : "also known as" : "Karimukha"}
+{"Ganesa" : "also known as" : "Heramba"}
+{"Ganesa" : "also known as" : "Lambakarna"}
+{"Ganesa" : "also known as" : "Lambodara"}
+{"Ganesa" : "also known as" : "Dwideha"}
+{"Ganesa" : "also known as" : "Vighnesa"}
+{"Ganesa" : "also known as" : "Vighna-hari"}
+{"Ganesa" : "also known as" : "Dwai-matura"}
+
+
+{"GANGA" : "Daughter Of" : "Himavat"}
+{"GANGA" : "Daughter Of" : "Mena"}
+{"GANGA" : "Wife Of" : "Santanu"}
+{"GANGA" : "Mother Of" : "Bhishma"}
+{"GANGA" : "Mother Of" : "Kartikeya"}
+{"GANGA" : "Called" : "Bhagirathi"}
+{"GANGA" : "Called" : "Gangadhara"}
+{"GANGA" : "Called" : "Kumarasi"}
+
+{"GARGA" : "Son Of" : "Vitatha"}
+{"GARGYA" : "Son Of" : "Balaki"}
+
+{"Garuda" : "mount of" : "Vishnu"}
+{"Garuda" : "father" : "Kasyapa"}
+{"Garuda" : "mother" : "Vinata"}
+{"Vinata" : "daughter" : "Daksha"}
+{"Garuda" : "enemy" : "Serpents"}
+{"Kadru" : "mother" : "Serpents"}
+{"Vinata" : "rival" : "Kadru"}
+{"Garuda" : "son" : "Sampati"}
+{"Garuda" : "wife" : "Unnati"}
+{"Garuda" : "wife" : "Vinayaka"}
+{"Garuda" : "fought" : "Indra"}
+{"Indra" : "lost to" : "Garuda"}
+{"Garuda" : "also known as" : "Kasyapi"}
+{"Garuda" : "also known as" : "Vainateya"}
+{"Garuda" : "also known as" : "Supama"}
+{"Garuda" : "also known as" : "Garutman"}
+{"Garuda" : "also known as" : "Dakshaya"}
+{"Garuda" : "also known as" : "Salmali"}
+{"Garuda" : "also known as" : "Tarkshya"}
+{"Garuda" : "also known as" : "Vinayaka"}
+{"Garuda" : "also known as" : "Nagantaka"}
+{"Garuda" : "also known as" : "Pannaga-nasana"}
+{"Garuda" : "also known as" : "Sarparati"}
+{"Garuda" : "also known as" : "Vishnuratha"}
+{"Garuda" : "also known as" : "Amritaharana"}
+{"Garuda" : "also known as" : "Sudhahara"}
+{"Garuda" : "also known as" : "Surendrajit"}
+{"Garuda" : "also known as" : "Vajrajit"}
+
+
+
+{"GATHA" : "Called" : "Lalitavistara"}
+{"GATHA" : "Called" : "Gathas"}
+{"GAUTAMA" : "Son Of" : "Gotama"}
+{"GAUTAMA" : "Husband Of" : "Ahalya"}
+{"GAUTAML 1" : "Epithet Of" : "Durga"}
+
+{"GHATOTKACHA" : "Son Of" : "Bhima"}
+{"GHATOTKACHA" : "Son Of" : "Hidimbi"}
+{"GHATOTKACHA" : "Killed by" : "Karna"}
+{"GHATOTKACHA" : "Father Of" : "Barbarika"}
+{"GHATOTKACHA" : "Husband Of" : "Ahilawati"}
+{"Barbarika" : "Father Of" : "Khatu Shyamji"}
+{"GHATOTKACHA" : "Father Of" : "Anjanaparva"}
+{"GHATOTKACHA" : "Father Of" : "Meghavarna"}
+
+{"GHOSHA" : "Daughter Of" : "Kakshivat"}
+{"GOBHILA" : "Slain By" : "Krishna"}
+{"GOTAMA" : "Called" : "Gautama"}
+
+{"Gritsa-mada" : "son" : "Suna-hotra"}
+{"Suna-hotra" : "descendant" : "Pururavas"}
+{"Pururavas" : "ancestor" : "Lunar race"}
+
+{"Gritsa-mada" : "ancestor" : "Sunaka"}
+{"Sunaka" : "father" : "Saunaka"}
+
+{"Gritsa-mada" : "rescued by" : "Indra"}
+{"Asuras" : "captured" : "Gritsa-mada"}
+
+{"Gritsa-mada" : "son" : "Vita-havya"}
+{"Vita-havya" : "king" : "Haihayas"}
+
+{"Gritsa-mada" : "assumed form of" : "Indra"}
+{"Gritsa-mada" : "saved" : "Indra"}
+
+{"Gritsa-mada" : "also known as" : "Saunaka"}
+{"Gritsa-mada" : "also known as" : "Angirasa"}
+{"Gritsa-mada" : "also known as" : "Bhrigu"}
+
+{"HAIHAYA" : "Son Of" : "Yadu"}
+{"HAIHAYA" : "Son Of" : "Bahu"}
+{"HAIHAYA" : "Son Of" : "Manu"}
+{"HAIHAYA" : "Grandson Of" : "Yadu"}
+
+{"Hanuman" : "also known as" : "Hanumat"}
+{"Hanuman" : "son" : "Pavana"}
+{"Hanuman" : "mother" : "Anjana"}
+{"Anjana" : "wife" : "Kesar"}
+{"Hanuman" : "enemy" : "Ravana"}
+{"Hanuman" : "burnt" : "Lanka"}
+{"Hanuman" : "killed" : "Kala-nemi"}
+{"Hanuman" : "killed" : "Gandharvas"}
+{"Hanuman" : "served" : "Rama"}
+{"Hanuman" : "also known as" : "Lankadahi"}
+{"Hanuman" : "also known as" : "Marutputra"}
+{"Hanuman" : "also known as" : "Anjaneya"}
+{"Hanuman" : "also known as" : "Anili"}
+{"Hanuman" : "also known as" : "Maruti"}
+{"Hanuman" : "also known as" : "Yoga-chara"}
+{"Hanuman" : "also known as" : "Rajatadyuti"}
+
+{"HARI-DWARA" : "Son Of" : "Tri-sanku"}
+{"HARITA" : "Son Of" : "Yuvanaswa"}
+{"HARITA" : "Son Of" : "Chyavana"}
+{"HASYARNAVA" : "Killed By" : "Vishnu"}
+{"HASYARNAVA" : "Named" : "Jagadisa"}
+{"HASYARNAVA" : "Form Of" : "Vishnu"}
+{"HIMAVAT" : "Husband Of" : "Mena"}
+{"HIMAVAT" : "Father Of" : "Uma"}
+{"HIRANYAKSHA" : "Killed By" : "Vishnu"}
+{"HIRANYAKASIPU" : "Slain By" : "Vishnu"}
+{"HITOPADESA" : "Called" : "Pancha-tantra"}
+{"HUNAS" : "Called" : "Hiina"}
+
+{"IDA" : "Wife Of" : "Budha"}
+{"IDA" : "Named" : "Ila"}
+{"IDAVLDA" : "Daughter Of" : "Trinabindu"}
+{"IDAVLDA" : "Wife Of" : "Visravas"}
+{"IDAVLDA" : "Wife Of" : "Pulastya"}
+{"IDAVLDA" : "Mother Of" : "Kuvera"}
+{"IDAVLDA" : "Mother Of" : "Visravas"}
+{"IKSHWAKU" : "Son Of" : "Vivaswat"}
+{"IKSHWAKU" : "Named" : "Nimi"}
+
+{"Indra" : "husband" : "Indrani"}
+{"Indrani" : "wife" : "Indra"}
+
+{"Indra" : "enemy" : "Vritra"}
+{"Indra" : "killed" : "Vritra"}
+
+{"Indra" : "enemy" : "Vala"}
+{"Indra" : "killed" : "Vala"}
+
+{"Indra" : "ally" : "Vishnu"}
+{"Indra" : "attended by" : "Maruts"}
+
+{"Indra" : "seduced" : "Ahalya"}
+{"Ahalya" : "wife" : "Gautama"}
+{"Gautama" : "cursed" : "Indra"}
+
+{"Ravana" : "enemy" : "Indra"}
+{"Meghanada" : "defeated" : "Indra"}
+{"Meghanada" : "son" : "Ravana"}
+
+{"Brahma" : "released" : "Indra"}
+
+{"Indra" : "father" : "Arjuna"}
+{"Indra" : "cheated" : "Karna"}
+{"Indra" : "gave weapon to" : "Karna"}
+
+{"Durvasas" : "cursed" : "Indra"}
+{"Indra" : "enemy" : "Daityas"}
+
+{"Krishna" : "enemy" : "Indra"}
+{"Krishna" : "defeated" : "Indra"}
+{"Indra" : "worshipped by" : "People of Vraja"}
+
+{"Indra" : "father" : "Jayanta"}
+
+{"Indra" : "also known as" : "Mahendra"}
+{"Indra" : "also known as" : "Sakra"}
+{"Indra" : "also known as" : "Maghavan"}
+{"Indra" : "also known as" : "Vasava"}
+{"Indra" : "also known as" : "Ribhuksha"}
+{"Indra" : "also known as" : "Datteya"}
+
+{"Indra" : "mount" : "Airavata"}
+{"Airavata" : "elephant of" : "Indra"}
+
+{"Indra" : "charioteer" : "Matali"}
+{"Indra" : "capital" : "Amaravati"}
+{"Indra" : "heaven" : "Swarga"}
+
+{"INDU" : "Sister Of" : "Bhoja"}
+{"INDU" : "King Of" : "Vidarbha"}
+{"IRAVAT" : "Son Of" : "Arjuna"}
+{"ISWARA KRISHNA" : "Called" : "Sankhya"}
+{"JABALI" : "Named" : "Indradyumna"}
+{"JABALI" : "Form Of" : "Vishnu"}
+{"JAHNU" : "Daughter Of" : "Jahnu"}
+{"JAHNU" : "Called" : "Jahnavi"}
+{"JALA-SAYIN" : "Son Of" : "Richika"}
+{"JALA-SAYIN" : "Son Of" : "Aichika"}
+{"JALA-SAYIN" : "Daughter Of" : "King"}
+{"JALA-SAYIN" : "Descendant Of" : "Bhrigu"}
+{"JAMBAVAT" : "Slain By" : "Jambavat"}
+{"JAMBAVAT" : "Called" : "Syamantaka"}
+{"JAMBHA" : "Killed By" : "Krishna"}
+{"JAMBHA" : "Killed By" : "Hanuman"}
+{"JAMBHA" : "Slain By" : "Indra"}
+{"JAMBHA" : "Fought With" : "Arjuna"}
+{"JAMBHA" : "Called" : "Jambhabhedin"}
+{"JANAKA" : "Father Of" : "Sita"}
+{"JANAKA" : "King Of" : "Mithila"}
+{"JANAKA" : "King Of" : "Videha"}
+{"JANAKA" : "Called" : "Janaka"}
+{"JANAKA" : "Called" : "Siradhwaja"}
+{"JANAMEJAYA" : "Son Of" : "Parikshit"}
+{"JANAMEJAYA" : "Great-Grandson Of" : "Arjuna"}
+{"JANAMEJAYA" : "Called" : "Sarpasattrin"}
+{"JARAS" : "Son Of" : "Brihadretha"}
+{"JARAS" : "Killed By" : "Bhima"}
+{"JARAS" : "Named" : "Jara"}
+{"JARAS" : "Worshipper Of" : "Siva"}
+{"JATASURA" : "Killed By" : "Bhima"}
+{"JATAYU" : "Son Of" : "Aruna"}
+{"JATAYU" : "Friend Of" : "Dasaratha"}
+{"JATILA" : "Daughter Of" : "Gotama"}
+{"JATILA" : "Daughter Of" : "Dhritarashtra"}
+{"JATILA" : "King Of" : "Sindhu"}
+{"JAYANTA" : "Son Of" : "Indra"}
+{"JAYANTA" : "Called" : "Jaya"}
+{"JAYANTI" : "Daughter Of" : "Indra"}
+{"JIMOTA" : "Killed By" : "Bhima"}
+{"JUSHKA" : "Wife Of" : "Siva"}
+{"JYAMAGHA" : "Named" : "Vidarbha"}
+
+{"KABANDHA" : "Slain By" : "Rama"}
+{"KABANDHA" : "Disciple Of" : "Sumantu"}
+{"KABANDHA" : "Called" : "Danu"}
+{"KACHA" : "Son Of" : "Brihaspati"}
+{"KACHA" : "Disciple Of" : "Sukra"}
+{"KAIKASI" : "Wife Of" : "Visravas"}
+{"KAIKASI" : "Mother Of" : "Ravana"}
+{"KAKSHIVAT" : "Son Of" : "Dirgha-tamas"}
+{"KAKSHIVAT" : "Called" : "Pajriya"}
+{"KALA" : "Form Of" : "Time"}
+{"KALAKA" : "Daughter Of" : "Daksha"}
+{"KALAKA" : "Wife Of" : "Kasyapa"}
+{"KALAKA" : "Married To" : "Kasyapa"}
+{"KALAKA" : "Called" : "Paulomas"}
+{"KALANAS" : "Son Of" : "Virochana"}
+{"KALANAS" : "Son Of" : "Hiranya-kasipu"}
+{"KALANAS" : "Grandson Of" : "Hiranya-kasipu"}
+{"KALANAS" : "Uncle Of" : "Ravana"}
+{"KALANAS" : "Killed By" : "Vishnu"}
+{"KALANAS" : "Named" : "Garga"}
+{"KALKI" : "Son Of" : "Su-dasa"}
+{"KALKI" : "Descendant Of" : "Ikshwaku"}
+{"KALKI" : "Called" : "Asmaka"}
+{"KALKI" : "Named" : "Mitrasaha"}
+{"KALPA" : "Form Of" : "Sutras"}
+{"KAMA" : "Son Of" : "Dharma"}
+{"KAMA" : "Son Of" : "Lakshmi"}
+{"KAMA" : "Named" : "Aniruddha"}
+{"KAMBOJAS" : "Conquered By" : "King"}
+
+{"KANSA" : "Son Of" : "Ugrasena"}
+{"KANSA" : "Cousin Of" : "DevakI"}
+{"KANSA" : "King Of" : "Magadha"}
+{"KANSA" : "Called" : "Kalankura"}
+{"KANSA" : "Killed By" : "Krishna"}
+
+
+{"KAPILA" : "Son Of" : "Vitatha"}
+{"KAPILA" : "Father Of" : "Gotama"}
+{"KARDAMA" : "Son Of" : "Daksha"}
+{"KARDAMA" : "Son Of" : "Pulaha"}
+
+{"Karna" : "mother" : "Kunti"}
+{"Karna" : "father" : "Surya"}
+{"Karna" : "half-brother" : "Pandavas"}
+
+{"Kunti" : "received boon from" : "Durvasas"}
+
+{"Karna" : "found by" : "Adhiratha"}
+{"Adhiratha" : "husband" : "Radha"}
+{"Radha" : "mother" : "Karna"}
+
+{"Indra" : "took armor from" : "Karna"}
+{"Indra" : "gave weapon to" : "Karna"}
+
+{"Karna" : "king" : "Anga"}
+{"Duryodhana" : "made king" : "Karna"}
+
+{"Draupadi" : "rejected" : "Karna"}
+
+{"Karna" : "ally" : "Kauravas"}
+{"Karna" : "enemy" : "Arjuna"}
+
+{"Karna" : "killed" : "Ghatotkacha"}
+{"Ghatotkacha" : "son" : "Bhima"}
+
+{"Arjuna" : "killed" : "Karna"}
+
+{"Karna" : "also known as" : "Vaikarttana"}
+{"Karna" : "also known as" : "Vasusenā"}
+{"Karna" : "also known as" : "Adhirathi"}
+{"Karna" : "also known as" : "Suta"}
+{"Karna" : "also known as" : "Radheya"}
+{"Karna" : "also known as" : "Anga-raja"}
+{"Karna" : "also known as" : "Champadhipa"}
+{"Karna" : "also known as" : "Kanina"}
+
+{"KARNATA" : "Son Of" : "Kritavirya"}
+{"KARNATA" : "Called" : "Dattatreya"}
+{"KARTTIKEYA" : "Son Of" : "Siva"}
+{"KARTTIKEYA" : "Called" : "Paravani"}
+{"KARTTIKEYA" : "Called" : "Maha-sena"}
+{"KARTTIKEYA" : "Called" : "Subrahmanya"}
+{"KASYAPA" : "Son Of" : "Marichi"}
+{"KASYAPA" : "Son Of" : "Brahma"}
+{"KASYAPA" : "Son Of" : "Aditi"}
+{"KASYAPA" : "Father Of" : "Vivaswat"}
+{"KASYAPA" : "Father Of" : "Manu"}
+{"KASYAPA" : "Called" : "Prajapati"}
+{"KATHARNAVA" : "Called" : "Brihat-katha"}
+{"KATYAYANA" : "Called" : "Varttikas"}
+{"RO" : "Named" : "Pushpa-danta"}
+{"KAUNDINYA" : "Called" : "Vishnu-gupta"}
+{"KAUNTEYA" : "Son Of" : "Kunti"}
+{"KAUTSA" : "Named" : "Gopi-natha"}
+{"KESI" : "Defeated By" : "Indra"}
+{"KESI-DHWAJA" : "Son Of" : "Krita-dhwaja"}
+{"KETU" : "Son Of" : "Viprachitti"}
+{"KETU" : "Called" : "A-kacha"}
+{"KHARA" : "Brother Of" : "Ravana"}
+{"KHASA" : "Daughter Of" : "Daksha"}
+{"KHASA" : "Wife Of" : "Kasyapa"}
+{"KICHAKA" : "King Of" : "Virafa"}
+{"KICHAKA" : "Slain By" : "Bhima"}
+{"KIM-PURUSHA" : "Called" : "Aswa-mukhas"}
+{"KIRATAS" : "Called" : "Kirantis"}
+{"KIRMIRA" : "Brother Of" : "Vaka"}
+{"KISHKINDHYA" : "Ally Of" : "Rama"}
+{"KOSALA" : "Called" : "Dakshina-Kosala"}
+{"KOTAVI" : "Mother Of" : "Bana"}
+{"KRIPA" : "Son Of" : "King"}
+{"KRIPA" : "Called" : "Gautama"}
+{"KRIPA" : "Son Of" : "Saradwat"}
+{"KRIPA" : "Wife Of" : "Drona"}
+{"KRIPA" : "Grandson Of" : "Saradwat"}
+
+{"Krishna" : "incarnation of" : "Vishnu"}
+{"Krishna" : "father" : "Vasudeva"}
+{"Krishna" : "mother" : "Devaki"}
+{"Vasudeva" : "husband" : "Devaki"}
+
+{"Krishna" : "brother" : "Balarama"}
+{"Balarama" : "mother" : "Rohini"}
+
+{"Krishna" : "descendant" : "Yadu"}
+{"Yadu" : "son" : "Yayati"}
+
+{"Krishna" : "cousin" : "Pandavas"}
+{"Krishna" : "ally" : "Pandavas"}
+
+{"Krishna" : "killed" : "Kansa"}
+{"Kansa" : "enemy" : "Krishna"}
+
+{"Krishna" : "killed" : "Sisupala"}
+{"Krishna" : "killed" : "Jarasandha"}
+{"Krishna" : "killed" : "Naraka"}
+
+{"Krishna" : "husband" : "Rukmini"}
+{"Krishna" : "husband" : "Radha"}
+{"Krishna" : "husband" : "Jambavati"}
+{"Krishna" : "husband" : "Satyabhama"}
+
+{"Krishna" : "son" : "Pradyumna"}
+{"Pradyumna" : "son" : "Aniruddha"}
+
+{"Krishna" : "friend" : "Arjuna"}
+{"Krishna" : "charioteer of" : "Arjuna"}
+
+{"Krishna" : "spoke" : "Bhagavad-gita"}
+
+{"Krishna" : "enemy" : "Indra"}
+{"Krishna" : "defeated" : "Indra"}
+
+{"Krishna" : "killed by" : "Jara"}
+{"Arjuna" : "performed rites for" : "Krishna"}
+
+{"Krishna" : "also known as" : "Vasudeva"}
+{"Krishna" : "also known as" : "Kesava"}
+{"Krishna" : "also known as" : "Govinda"}
+{"Krishna" : "also known as" : "Damodara"}
+{"Krishna" : "also known as" : "Upendra"}
+
+{"KRITANTA" : "Son Of" : "Dhanaka"}
+{"KRITANTA" : "Called" : "Bhoja"}
+{"KSHEMAKA" : "Son Of" : "Nira-mitra"}
+{"KUMARILA-BHATTA" : "Son Of" : "Visravas"}
+{"KUMARILA-BHATTA" : "Brother Of" : "Ravana"}
+{"KUMUDA" : "Son Of" : "Rama"}
+{"KUNTI-BHOJA" : "Father Of" : "Kunti"}
+{"KUNTI-BHOJA" : "Called" : "Kuntis"}
+{"KURU" : "Son Of" : "Samvarana"}
+{"KURU" : "Called" : "Kurus"}
+{"KUSA" : "Brother Of" : "Janaka"}
+{"KUSA" : "Uncle Of" : "Sita"}
+{"KUSA" : "King Of" : "Mithila"}
+{"KUSA" : "King Of" : "Sankasya"}
+{"KUSA" : "King Of" : "Kasi"}
+{"KUSA" : "Married To" : "Bharata"}
+{"KUSAMBA" : "Son Of" : "Kusa"}
+{"KUSAMBA" : "Son Of" : "Kusamba"}
+{"KUSAMBA" : "Son Of" : "Rama"}
+{"KUSAMBA" : "Destroyed By" : "Punya-janas"}
+{"KUSAMBA" : "Called" : "Kusa-vati"}
+{"KUSIKA" : "Father Of" : "Viswamitra"}
+{"KUVALASWA" : "Slayer Of" : "Dhundhu"}
+{"KUVERA" : "Son Of" : "Visravas"}
+{"KUVERA" : "Son Of" : "Pulastya"}
+{"KUVERA" : "Father Of" : "Visravas"}
+{"KUVERA" : "Brother Of" : "Ravana"}
+{"KUVERA" : "Friend Of" : "Siva"}
+{"KUVERA" : "Called" : "Prabha"}
+{"KUVERA" : "Called" : "Dhana-pati"}
+{"KUVERA" : "Called" : "Vaisravana"}
+{"KUVERA" : "Form Of" : "Visravas"}
+
+{"Lakshmana" : "son" : "Dasaratha"}
+{"Lakshmana" : "mother" : "Sumitra"}
+{"Lakshmana" : "brother" : "Satrughna"}
+{"Lakshmana" : "brother" : "Rama"}
+{"Lakshmana" : "wife" : "Urmila"}
+{"Urmila" : "sister" : "Sita"}
+{"Lakshmana" : "son" : "Angada"}
+{"Lakshmana" : "son" : "Chandra-ketu"}
+{"Lakshmana" : "ally" : "Rama"}
+{"Lakshmana" : "enemy" : "Ravana"}
+{"Lakshmana" : "attacked" : "Surpanakha"}
+{"Lakshmana" : "cut nose of" : "Surpanakha"}
+{"Surpanakha" : "sister" : "Ravana"}
+{"Lakshmana" : "died in" : "Saraya"}
+{"Lakshmana" : "incarnation of" : "Sesha"}
+
+{"Lakshmi" : "wife" : "Vishnu"}
+{"Lakshmi" : "mother" : "Kama"}
+{"Lakshmi" : "daughter" : "Bhrigu"}
+{"Lakshmi" : "mother" : "Khyati"}
+{"Lakshmi" : "also known as" : "Sri"}
+{"Lakshmi" : "also known as" : "Padma"}
+{"Lakshmi" : "also known as" : "Kamala"}
+{"Lakshmi" : "also known as" : "Sita"}
+{"Lakshmi" : "also known as" : "Rukmini"}
+{"Lakshmi" : "also known as" : "Indira"}
+{"Lakshmi" : "also known as" : "Chanchala"}
+{"Lakshmi" : "also known as" : "Lola"}
+{"Lakshmi" : "also known as" : "Loka-mata"}
+
+
+{"LAVANA" : "Son Of" : "Madhu"}
+{"LAVANA" : "Daughter Of" : "Visravas"}
+{"LAVANA" : "Sister Of" : "Ravana"}
+{"LAVANA" : "King Of" : "Mathura"}
+{"LAVANA" : "Killed By" : "Satru-ghna"}
+{"LINGA" : "Lord Of" : "Rama"}
+{"LINGA" : "Lord Of" : "Gautama"}
+{"LINGA" : "Called" : "Jyotir-lingam"}
+{"LOKA" : "Called" : "Vairagis"}
+{"LOKALOKA" : "King Of" : "Anga"}
+{"LOKALOKA" : "Called" : "Loka-palas"}
+{"LOKALOKA" : "Called" : "Abhra-matanga"}
+{"LOKALOKA" : "Called" : "Virupaksha"}
+{"LOPAMUDRA" : "Wife Of" : "Agastya"}
+{"LOPAMUDRA" : "King Of" : "Vidarbha"}
+{"LOPAMUDRA" : "Called" : "Kaushitaki"}
+
+{"MADHAVA" : "Brother Of" : "Sayana"}
+{"MADHAVA" : "Follower Of" : "Siva"}
+{"MADHAVA" : "Worshipper Of" : "Vishnu"}
+{"MADHU" : "Son Of" : "Viswamitra"}
+{"MADHU" : "Killed By" : "Satru-ghna"}
+{"MADHU" : "Slain By" : "Krishna"}
+{"MADHURANIRUDDHA" : "Son Of" : "Krishna"}
+{"MADHURANIRUDDHA" : "Grandson Of" : "Krishna"}
+{"MADHURANIRUDDHA" : "Slayer Of" : "Madhu"}
+{"MADIRA" : "Wife Of" : "Varuna"}
+{"MAGHA" : "Son Of" : "Dattaka"}
+
+{"MAINAKA" : "Son Of" : "Himavat"}
+{"MAITREYA" : "Son Of" : "Kusarava"}
+{"MAITREYA" : "Disciple Of" : "Parasara"}
+{"MANASA" : "Called" : "Ravanahrada"}
+{"MANASA" : "Called" : "Jagad-"}
+{"MANDALA" : "Called" : "Sarngika"}
+{"MANDALA" : "Called" : "Jarita"}
+{"MANDHATRI" : "Son Of" : "Yuvanaswa"}
+{"MANDHATRI" : "Named" : "Saubhari"}
+{"MANGALA" : "Son Of" : "Siva"}
+{"MANGALA" : "Called" : "Angaraka"}
+{"MANGALA" : "Called" : "Siva-gharma-ja"}
+{"MANIMAT" : "Son Of" : "Arjuna"}
+{"MANIMAT" : "Slain By" : "Bhima"}
+{"MANU" : "Son Of" : "Vivaswat"}
+{"MANU" : "Offspring Of" : "Manu"}
+{"MANU" : "Called" : "Satyavrata"}
+{"MANU" : "Named" : "Vaivaswata"}
+{"MARISHA" : "Mother Of" : "Daksha"}
+{"MARISHA" : "Named" : "Pramlocha"}
+{"MARKANDEYA" : "Called" : "Dirghayus"}
+{"MARUTS" : "Son Of" : "Diti"}
+{"MARUTS" : "Called" : "Maruta"}
+{"MARUTTA" : "Descendant Of" : "Manu"}
+{"MARUTTA" : "Killed By" : "Vapushmat"}
+{"MATHURA" : "Called" : "Madhu"}
+{"MATHURA" : "Called" : "Madhura"}
+{"MATSYA" : "Called" : "Matsya"}
+{"MATSYA" : "Called" : "Matsyas"}
+{"MAYA" : "Son Of" : "Viprachitti"}
+{"MAYA" : "Wife Of" : "Ravana"}
+{"MAYA" : "Father Of" : "Vajr-kama"}
+{"MAYA" : "Son Of" : "Krishna"}
+{"MAYA" : "Called" : "Mayadevi"}
+{"MAYU" : "Called" : "Mayus"}
+{"MEDINI" : "Son Of" : "Ravana"}
+{"MEKALA" : "Daughter Of" : "Mekala"}
+{"MEKALA" : "Called" : "Mekala"}
+{"MEKALA" : "Called" : "Mekalas"}
+
+{"MENA" : "Daughter Of" : "Vrishanaswa"}
+{"MENA" : "Wife Of" : "Himavat"}
+{"MENA" : "Mother Of" : "Uma"}
+{"MENA" : "Named" : "Mainaka"}
+{"MENA" : "Form Of" : "Mena"}
+{"MERU" : "Daughter Of" : "Daksha"}
+{"MUDGALA" : "Named" : "Mudgala"}
+{"MUKA" : "Son Of" : "Upasunda"}
+{"MUKA" : "Killed By" : "Siva"}
+{"MUNDA" : "Slain By" : "Durga"}
+{"NEDISHTHA" : "Son Of" : "Manu"}
+{"NACHIKETAS" : "Father Of" : "Nachiketas"}
+{"NAGA" : "Wife Of" : "Kasyapa"}
+{"NAGA" : "Called" : "Kadraveyas"}
+{"NAGA" : "Called" : "Su-rasa"}
+{"NAHUSHA" : "Son Of" : "Ayus"}
+{"NAHUSHA" : "Wife Of" : "Indra"}
+{"NAIKASHEYAS" : "Mother Of" : "Ravana"}
+{"NAIRAITA" : "King Of" : "Nishadha"}
+{"NAKULA" : "Son Of" : "Madri"}
+{"NALA" : "King Of" : "Virata"}
+{"NALA" : "Princess Of" : "Chedi"}
+{"NALA" : "Named" : "Nir-amitra"}
+{"NALA" : "Son Of" : "Viswa-karma"}
+{"NALA" : "Son Of" : "Kuvera"}
+{"NALA" : "Daughter Of" : "Bhima"}
+{"NALA" : "Husband Of" : "Damayanti"}
+{"NALA" : "King Of" : "Nishadha"}
+{"NALA" : "King Of" : "Vidarbha"}
+{"NALA" : "King Of" : "Ayodhya"}
+{"NALA" : "Called" : "Rama-setu"}
+{"NALA" : "Named" : "Indrasena"}
+{"NALA" : "Form Of" : "Nala"}
+{"NANDI" : "Son Of" : "Kasyapa"}
+{"NANDI" : "Called" : "Salankayana"}
+{"NANDISA" : "Follower Of" : "Maha-deva"}
+{"NARADA" : "Son Of" : "Kasyapa"}
+{"NARADA" : "Called" : "Brahma"}
+{"NARADA" : "Incarnation Of" : "Vishnu"}
+{"NARAKA" : "Daughter Of" : "Viswa-karma"}
+{"NARAKA" : "King Of" : "Prag-jyotisha"}
+{"NARAKA" : "Called" : "Urvasi"}
+{"NARAYANA" : "Son Of" : "Nara"}
+{"NARMADA" : "Wife Of" : "Purukutsa"}
+{"NARMADA" : "Wife Of" : "Trasadasyu"}
+{"NARMADA" : "Mother Of" : "Trasadasyu"}
+{"NARMADA" : "Called" : "Mekala"}
+{"NARMADA" : "Called" : "Reva"}
+{"NARMADA" : "Named" : "Mekala"}
+{"NARMADA" : "Named" : "Trasadasyu"}
+{"NASATYA" : "Called" : "Go-meda"}
+{"NIDAGHA" : "Son Of" : "Pulastya"}
+{"NIDRA" : "Form Of" : "Brahma"}
+{"NIGHANTU" : "Mother Of" : "Ravana"}
+{"NIGHANTU" : "Called" : "Pisitasanas"}
+{"NIKUMBHA" : "Son Of" : "Kumbha-karna"}
+{"NIKUMBHA" : "Fought With" : "Rama"}
+{"NIKUMBHA" : "Friend Of" : "Krishna"}
+{"NILA" : "Killed By" : "Aswatthaman"}
+{"NILA" : "Ally Of" : "Rama"}
+{"NILA" : "Epithet Of" : "Siva"}
+{"NISUMBHA" : "Killed By" : "Durga"}
+{"NISUMBHA" : "Destroyed By" : "Arjuna"}
+{"OM" : "Called" : "Udgitha"}
+{"PADMA-KALPA" : "Called" : "Padma"}
+{"PAHLAVA" : "Called" : "Pahnavas"}
+{"PAIJAVANA" : "Son Of" : "Pijavana"}
+{"PALAKAPYA" : "Incarnation Of" : "Dhanwantari"}
+{"PANCHAPSARAS" : "Named" : "Vishnu-sarman"}
+{"PANDU" : "Brother Of" : "Dhritarashira"}
+{"PANDU" : "King Of" : "Hastina-pura"}
+{"PARASARA" : "Son Of" : "Saktri"}
+{"PARASARA" : "Son Of" : "Vasishtha"}
+{"PARASARA" : "Grandson Of" : "Vasishtha"}
+{"PARASARA" : "Disciple Of" : "Kapila"}
+{"PARASIKAS" : "Son Of" : "Jamad-agni"}
+{"PARASIKAS" : "Follower Of" : "Siva"}
+
+{"PARIKSHIT" : "Son Of" : "Abhimanyu"}
+{"PARIKSHIT" : "Son Of" : "Uttara"}
+{"PARIKSHIT" : "Father Of" : "Janamejaya"}
+{"PARIKSHIT" : "Grandson Of" : "Arjuna"}
+
+{"PARIPATRA" : "Called" : "Pariyatra"}
+{"PARISISHTA" : "Called" : "Parisishfas"}
+{"PARTHA" : "Son Of" : "Pritha"}
+{"PATALA" : "Called" : "Hatakeswara"}
+{"PATALA" : "Form Of" : "Siva"}
+{"PAULOMAS" : "Killed By" : "Arjuna"}
+{"PAULOMAS" : "Called" : "Paulomas"}
+{"PAUNDRAKA" : "Son Of" : "Vasu-deva"}
+{"PAUNDRAKA" : "King Of" : "Kasi"}
+{"PAUNDRAKA" : "Killed By" : "Krishna"}
+{"PAUNDRAKA" : "Named" : "Vasu-deva"}
+{"PITRIS" : "Called" : "Subhaswaras"}
+{"PITRIS" : "Called" : "Ushmapas"}
+{"PITRIS" : "Called" : "Havishmats"}
+
+{"Pradyumna" : "father" : "Krishna"}
+{"Pradyumna" : "mother" : "Rukmini"}
+{"Sambara" : "kidnapped" : "Pradyumna"}
+{"Sambara" : "enemy" : "Pradyumna"}
+{"Mayavati" : "raised" : "Pradyumna"}
+{"Narada" : "informed" : "Mayavati"}
+{"Pradyumna" : "killed" : "Sambara"}
+{"Pradyumna" : "wife" : "Mayavati"}
+{"Mayavati" : "also known as" : "Rati"}
+{"Krishna" : "father" : "Pradyumna"}
+{"Rukmini" : "mother" : "Pradyumna"}
+{"Pradyumna" : "wife" : "Kakudmati"}
+{"Kakudmati" : "father" : "Rukmin"}
+{"Pradyumna" : "son" : "Aniruddha"}
+{"Pradyumna" : "killed in" : "Dwaraka"}
+{"Pradyumna" : "also known as" : "Kama"}
+{"Pradyumna" : "also known as" : "Manmatha"}
+{"Pradyumna" : "son" : "Brahma"}
+{"Pradyumna" : "also known as" : "Sanat-kumara"}
+{"Pradyumna" : "wife" : "Prabhavati"}
+{"Prabhavati" : "father" : "Vajranabha"}
+
+{"PRAHLADA" : "Son Of" : "HIRANYAKASHPU"}
+{"Prahlada" : "also known as" : "Prahrada"}
+{"Prahlada" : "father of" : "Bali"}
+{"Hiranyakasipu" : "enemy" : "Indra"}
+{"Hiranyakasipu" : "enemy" : "Gods"}
+{"Prahlada" : "devotee of" : "Vishnu"}
+{"Hiranyakasipu" : "enemy" : "Vishnu"}
+{"Vishnu" : "killed" : "Hiranyakasipu"}
+{"Vishnu" : "incarnation as" : "Narasimha"}
+{"Prahlada" : "king" : "Daityas"}
+{"Prahlada" : "lived in" : "Patala"}
+{"Prahlada" : "united with" : "Vishnu"}
+{"Prahlada" : "also known as" : "Somasarman"}
+{"Somasarman" : "father" : "Sivasarman"}
+
+{"PRALAMBA" : "Killed By" : "Krishna"}
+{"PRASENA" : "Son Of" : "Nighna"}
+{"PRASENA" : "Brother Of" : "Satrajit"}
+{"PRASUTI" : "Daughter Of" : "Manu"}
+{"PRASUTI" : "Wife Of" : "Daksha"}
+{"PRATARDANA" : "King Of" : "Kasi"}
+{"PRATARDANA" : "Named" : "Vita-havya"}
+{"PRATISAKHYAS" : "Called" : "Pancha-vinsa"}
+{"PRISHADHRA" : "Son Of" : "Manu"}
+{"PRITHI" : "Son Of" : "Vena"}
+{"PRITHI" : "Son Of" : "Anga"}
+{"PRITHI" : "Called" : "Put"}
+{"PRITHIVI" : "Named" : "Prithu"}
+{"PRITHU" : "Son Of" : "Manu"}
+{"PRITHU" : "Daughter Of" : "Kardama"}
+{"PULASTYA" : "Father Of" : "Visravas"}
+{"PULASTYA" : "Father Of" : "Kuvera"}
+{"PULOMAN" : "Wife Of" : "Indra"}
+{"PULOMAN" : "Father Of" : "Sachi"}
+{"PULOMAN" : "Killed By" : "Indra"}
+{"PURANA" : "Son Of" : "Vikuksbi"}
+{"PURANA" : "Called" : "Manwantaras"}
+{"PURANA" : "Form Of" : "Hindu"}
+{"PURU" : "Son Of" : "Yayati"}
+{"PURU" : "Called" : "Pauravas"}
+{"PURUKUTSA" : "Son Of" : "Ila"}
+{"PURUKUTSA" : "Son Of" : "Budha"}
+{"PURUKUTSA" : "Daughter Of" : "Manu"}
+{"PURUKUTSA" : "Called" : "Mauneyas"}
+{"PURUSHOTTAMA" : "Brother Of" : "Indra"}
+{"PURUSHOTTAMA" : "Called" : "Karambhad"}
+{"PURUSHOTTAMA" : "Called" : "Aghrini"}
+{"PUSHKARA" : "Son Of" : "Bharata"}
+{"PUSHKARA" : "Brother Of" : "Nala"}
+{"PUSHPAKA" : "Called" : "Ratna-varshuka"}
+{"PUSHPOTKATA" : "Wife Of" : "Visravas"}
+{"PUSHPOTKATA" : "Mother Of" : "Ravana"}
+{"PUT" : "Daughter Of" : "Bali"}
+{"RADHA" : "Wife Of" : "Adhiratha"}
+{"RADHA" : "Wife Of" : "Ayana-ghosha"}
+{"RADHA" : "Mother Of" : "Karna"}
+{"RADHEYA" : "Metronymic Of" : "Karna"}
+{"RAGHAVA" : "Descendant Of" : "Raghu"}
+{"RAGHU" : "Son Of" : "Dilipa"}
+{"RAGHU" : "Father Of" : "Rama"}
+{"RAGHU" : "Ancestor Of" : "Rama"}
+{"RAHU" : "Called" : "Abhra-pisacha"}
+{"RAIBHYA" : "Friend Of" : "Bharadwaja"}
+{"RAIVATA" : "Son Of" : "Reva"}
+{"RAIVATA" : "King Of" : "Anarta"}
+{"RAIVATA" : "Named" : "Revati"}
+{"RAKA" : "Wife Of" : "Visravas"}
+{"RAKA" : "Mother Of" : "Khara"}
+{"RAKSHASAS" : "Daughter Of" : "Daksha"}
+{"RAKSHASAS" : "Called" : "Rakshasas"}
+{"RAKSHASAS" : "Called" : "Anusaras"}
+
+{"Rama" : "also known as" : "Ramachandra"}
+{"Rama" : "son of" : "Dasaratha"}
+{"Kausalya" : "mother" : "Rama"}
+{"Rama" : "brother" : "Bharata"}
+{"Rama" : "brother" : "Lakshmana"}
+{"Rama" : "brother" : "Satrughna"}
+{"Rama" : "incarnation of" : "Vishnu"}
+{"Rama" : "wife" : "Sita"}
+{"Sita" : "father" : "Janaka"}
+{"Rama" : "killed" : "Ravana"}
+{"Ravana" : "brother" : "Surpanakha"}
+{"Lakshmana" : "killed" : "Khara"}
+{"Lakshmana" : "killed" : "Dushana"}
+{"Rama" : "ally" : "Sugriva"}
+{"Sugriva" : "brother" : "Bali"}
+{"Hanuman" : "served" : "Rama"}
+{"Rama" : "exiled by" : "Kaikeyi"}
+{"Kaikeyi" : "son" : "Bharata"}
+{"Rama" : "kingdom" : "Ayodhya"}
+{"Rama" : "father of : "Kusa"}
+{"Rama" : "father of" : "Lava"}
+{"Sita" : "mother of" : "Kusa"}
+{"Sita" : "mother of" : "Lava"}
+
+{"RAMAYANA" : "Son Of" : "Viswa-karma"}
+{"RAMAYANA" : "King Of" : "Ceylon"}
+
+{"Ravana" : "also known as" : "Dasanana"}
+{"Ravana" : "also known as" : "Dasa-kantha"}
+{"Ravana" : "also known as" : "Pankti-griva"}
+{"Visravas" : "father of" : "Ravana"}
+{"Nikasha" : "mother of" : "Ravana"}
+{"Su-mali" : "father of" : "Nikasha"}
+{"Pulastya" : "grandfather of" : "Ravana"}
+{"Visravas" : "father of" : "Kuvera"}
+{"Ravana" : "half-brother of" : "Kuvera"}
+{"Ravana" : "expelled" : "Kuvera"}
+{"Ravana" : "king of" : "Rakshasas"}
+{"Ravana" : "ruled" : "Lanka"}
+{"Brahma" : "granted boon to" : "Ravana"}
+{"Rama" : "enemy of" : "Ravana"}
+{"Ravana" : "kidnapped" : "Sita"}
+{"Rama" : "husband of" : "Sita"}
+{"Rama" : "killed" : "Ravana"}
+{"Vishnu" : "incarnation as" : "Rama"}
+{"Mandodari" : "wife of" : "Ravana"}
+{"Ravana" : "father of" : "Meghanada"}
+{"Meghanada" : "also known as" : "Indrajit"}
+{"Ravana" : "father of" : "Aksha"}
+{"Ravana" : "father of" : "Atikaya"}
+{"Ravana" : "father of" : "Devantaka"}
+{"Ravana" : "father of" : "Narantaka"}
+{"Ravana" : "father of" : "Tri-siras"}
+{"Ravana" : "reborn as" : "Sisupala"}
+
+
+{"RENUKA" : "Wife Of" : "Jamadagni"}
+{"RENUKA" : "Mother Of" : "Parasu-rama"}
+{"RENUKA" : "Called" : "Konkana"}
+{"REVA" : "Wife Of" : "Karna"}
+{"REVANTA" : "Son Of" : "Surya"}
+{"REVANTA" : "Called" : "Haya-vahana"}
+{"RIBHU" : "Son Of" : "Pulastya"}
+{"RIBHUS" : "Descendant Of" : "An-"}
+{"RIBHUS" : "Named" : "Ribhu"}
+{"RICHIKA" : "Daughter Of" : "Gadhi"}
+{"RICHIKA" : "Husband Of" : "Satyavati"}
+{"RICHIKA" : "Father Of" : "Jamadagni"}
+{"RICHIKA" : "King Of" : "Kanyakubja"}
+{"RISHABHA" : "Son Of" : "Nabhi"}
+{"RISHI-BRAHMANA" : "King Of" : "Ayodhya"}
+{"ROHINL 1" : "Daughter Of" : "Kasyapa"}
+{"ROHINL 1" : "Daughter Of" : "Daksha"}
+{"ROHINL 1" : "Father Of" : "Krishna"}
+{"ROHINL 1" : "Mother Of" : "Bala-rama"}
+{"ROHITA" : "Son Of" : "King"}
+{"ROHITA" : "Called" : "Rohitaswa"}
+{"RUDRA" : "Called" : "Maha-deva"}
+{"RUKMIN" : "Brother Of" : "Rukmini"}
+{"RUKMIN" : "King Of" : "Vidarbha"}
+{"RUKMIN" : "Killed By" : "Balarama"}
+{"SADHYAS" : "Daughter Of" : "Daksha"}
+{"SAGARA" : "Son Of" : "King"}
+{"SAGARA" : "Son Of" : "Asamanjas"}
+{"SAGARA" : "Son Of" : "Ansumat"}
+{"SAGARA" : "Son Of" : "Madri"}
+{"SAGARA" : "Daughter Of" : "Kasyapa"}
+{"SAGARA" : "Daughter Of" : "Raja"}
+{"SAGARA" : "Grandson Of" : "Ansumat"}
+{"SAGARA" : "King Of" : "Ayodhya"}
+{"SAGARA" : "Named" : "Su-hotra"}
+{"SAHASRAKSHA" : "Epithet Of" : "Indra"}
+{"SAIBYA" : "Wife Of" : "Jyamagha"}
+{"SAIBYA" : "Wife Of" : "Sata-dhanu"}
+{"SAKALYA" : "Called" : "Veda-mitra"}
+{"SAKAS" : "Called" : "Sakari"}
+{"SAKTI" : "Ally Of" : "Siva"}
+{"SAKTI" : "Son Of" : "Vasishtha"}
+{"SAKUNTALA" : "Mother Of" : "Bharata"}
+{"SALIVAHANA" : "Enemy Of" : "Vikramaditya"}
+{"SALYA" : "Brother Of" : "Madri"}
+{"SAMBA" : "Son Of" : "Krishna"}
+{"SAMBARA" : "Fought With" : "King"}
+{"SAMBARA" : "Destroyed By" : "Indra"}
+{"SAMVARANA" : "Son Of" : "Atksha"}
+{"SAMVARANA" : "Father Of" : "Kuru"}
+{"SANDHYA" : "Daughter Of" : "Brahma"}
+{"SANDHYA" : "Wife Of" : "Siva"}
+{"SANDHYA" : "Called" : "Ardra"}
+{"SANJAYA" : "Son Of" : "Gavalgana"}
+{"SANJAYA" : "Father Of" : "Vasava-datta"}
+{"SANJAYA" : "King Of" : "Ujjayini"}
+{"SANJNA" : "Daughter Of" : "Viswa-karma"}
+{"SANKHAYANA" : "Called" : "Sankhayana"}
+{"SANTA" : "Son Of" : "Aja"}
+{"SANTA" : "Daughter Of" : "Dasa-ratha"}
+{"SANTA" : "King Of" : "Anga"}
+{"SANTA" : "Married To" : "Rishya-sringa"}
+
+{"SANTANU" : "Son Of" : "Pratipa"}
+{"SANTANU" : "Father Of" : "Bhishma"}
+{"SANTANU" : "Grandfather Of" : "Dhritarasta"}
+
+{"SARADWAT" : "Father Of" : "Kripa"}
+{"SARADWAT" : "Called" : "Gautama"}
+{"SARAMA" : "Wife Of" : "Vibhishana"}
+{"SARANYU" : "Son Of" : "Aditi"}
+{"SARANYU" : "Daughter Of" : "Twashirn"}
+{"SARANYU" : "Daughter Of" : "Twashiri"}
+{"SARANYU" : "Mother Of" : "Yama"}
+{"SARANYU" : "Offspring Of" : "Savarna"}
+{"SARASWATA" : "Called" : "Saraswata"}
+{"SARMISHTHA" : "Daughter Of" : "Vrishaparvan"}
+{"SARMISHTHA" : "Wife Of" : "Yayati"}
+{"SARMISHTHA" : "Mother Of" : "Puru"}
+{"SASTRA" : "Son Of" : "Hridika"}
+{"SASTRA" : "Daughter Of" : "Brahma"}
+{"SASTRA" : "Wife Of" : "Krishna"}
+{"SASTRA" : "Father Of" : "Satya-bhama"}
+{"SASTRA" : "Called" : "Savitri"}
+{"SASTRA" : "Named" : "Saibya"}
+{"SASTRA" : "Named" : "Swayam-"}
+{"SATRAJIT" : "Son Of" : "Nighna"}
+{"SATRAJIT" : "Son Of" : "Saradwat"}
+{"SATRAJIT" : "Daughter Of" : "Satrajita"}
+{"SATRAJIT" : "Brother Of" : "Rama"}
+{"SATRAJIT" : "Cousin Of" : "Sita"}
+{"SATRAJIT" : "Killed By" : "Krishna"}
+{"SATRAJIT" : "Named" : "Satadhanwan"}
+{"SATYAVAN" : "Daughter Of" : "Uparichara"}
+{"SATYAVAN" : "Daughter Of" : "King"}
+{"SATYAVAN" : "Wife Of" : "King"}
+{"SATYAVAN" : "Mother Of" : "Vyasa"}
+{"SATYAVAN" : "Mother Of" : "Vichitra-virya"}
+{"SATYAVAN" : "Mother Of" : "Jamad-agni"}
+{"SATYAVAN" : "Mother Of" : "Parasu-rama"}
+{"SATYAVAN" : "King Of" : "Chedi"}
+{"SATYAVAN" : "Called" : "Dwaipayana"}
+{"SATYAVAN" : "Named" : "Adrika"}
+{"SATYAVAN" : "Named" : "Vedhas"}
+{"SAUDASA" : "Son Of" : "King"}
+{"SAUNAKA" : "Son Of" : "Sunaka"}
+{"SAUNAKA" : "Son Of" : "Gritsamada"}
+{"SAUNAKA" : "Grandson Of" : "Gritsamada"}
+{"SAVARNA" : "Wife Of" : "Vivaswat"}
+{"SAVARNA" : "Wife Of" : "Prachinabarhis"}
+{"SAVITRL 1" : "Daughter Of" : "King"}
+{"SAVITRL 1" : "Wife Of" : "Brahma"}
+{"SAVITRL 1" : "Called" : "Gayatri"}
+{"SAYANA" : "Brother Of" : "Madhavacharya"}
+{"SESHA" : "Son Of" : "Kasyapa"}
+{"SESHA" : "Called" : "Patala"}
+{"SESHA" : "Called" : "Ananta"}
+{"SESHA" : "Called" : "Mani-dwipa"}
+{"SESHA" : "Named" : "Ananta-sirsha"}
+{"SIKHANDIN" : "Son Of" : "Drupada"}
+{"SIKHANDIN" : "Daughter Of" : "Raja"}
+{"SINHIKA" : "Daughter Of" : "Daksha"}
+{"SINHIKA" : "Daughter Of" : "Kasyapa"}
+{"SINHIKA" : "Wife Of" : "Viprachitti"}
+{"SISUMARA" : "Son Of" : "Damaghosha"}
+{"SISUMARA" : "Sister Of" : "Vasudeva"}
+{"SISUMARA" : "Cousin Of" : "Krishna"}
+{"SISUMARA" : "King Of" : "Chedi"}
+{"SISUMARA" : "Slain By" : "Krishna"}
+{"SISUMARA" : "Form Of" : "Raghava"}
+
+{"Janaka" : "father of" : "Sita"}
+{"Sita" : "wife of" : "Rama"}
+{"Rama" : "husband of" : "Sita"}
+{"Sita" : "also known as" : "Ayonija"}
+{"Sita" : "also known as" : "Bhumija"}
+{"Sita" : "also known as" : "Dharanisuta"}
+{"Sita" : "also known as" : "Parthivi"}
+{"Earth" : "mother of" : "Sita"}
+{"Ravana" : "kidnapped" : "Sita"}
+{"Sita" : "mother of" : "Kusa"}
+{"Sita" : "mother of" : "Lava"}
+{"Valmiki" : "sheltered" : "Sita"}
+{"Lakshmi" : "incarnated as" : "Sita"}
+{"Rama" : "killed" : "Ravana"}
+
+{"Siva" : "Also Known As" : "Rudra"}
+{"Siva" : "Father of" : "Maruts"}
+{"Maruts" : "Sons Of" : "Rudra"}
+{"Rudra" : "Pierced" : "Prajapati"}
+{"Siva" : "Consort Of" : "Parvati"}
+{"Siva" : "Consort Of" : "Uma"}
+{"Siva" : "Acknowledged Divinity Of" : "Rama"}
+{"Siva" : "Fought With" : "Vishnu"}
+{"Siva" : "Received Worship With" : "Brahma"}
+{"Siva" : "Received Worship With" : "Vishnu"}
+{"Siva" : "Received Worship With" : "Indra"}
+{"Siva" : "Received Homage From" : "Vishnu"}
+{"Siva" : "Received Homage From" : "Krishna"}
+{"Siva" : "Cut Off Head Of" : "Brahma"}
+{"Siva" : "Mount" : "Nandi"}
+{"Siva" : "Destroyed" : "Kama"}
+{"Siva" : "Destroyed" : "Asura Gaya"}
+{"Siva" : "Consort Of" : "Devi"}
+{"Siva" : "Dance Performed With" : "Devi"}
+{"Siva" : "Destroyed" : "Demons"}
+{"Siva" : "Bearer Of" : "River Ganga"}
+{"Siva" : "Supremacy Rivalry With" : "Vishnu"}
+{"Siva" : "Supremacy Rivalry With" : "Krishna"}
+{"Siva" : "Is One With" : "Vishnu"}
+{"Siva" : "Is One With" : "Krishna"}
+
+{"Sivi" : "Son of" : "Usinara"}  
+{"Sivi" : "King of" : "Usinara"}  
+{"Sivi" : "Praised by" : "Sage Markandeya"}  
+{"Agni" : "Took form of" : "Pigeon"}  
+{"Indra" : "Took form of" : "Falcon"}  
+{"Pigeon" : "Took refuge in" : "Sivi"}  
+{"Falcon" : "Pursued" : "Pigeon"}  
+{"Falcon" : "Demanded sacrifice from" : "Sivi"}  
+{"Sivi" : "Sacrificed flesh for" : "Pigeon"}  
+{"Sivi" : "Protected" : "Pigeon"}  
+{"Falcon" : "Tested devotion of" : "Sivi"}  
+{"Vishnu" : "Visited" : "Sivi"}  
+{"Vishnu" : "Disguised as" : "Brahman"}  
+{"Vishnu" : "Demanded food from" : "Sivi"}  
+{"Vishnu" : "Asked sacrifice of" : "Vrihadgarbha"}  
+{"Sivi" : "Sacrificed son" : "Vrihadgarbha"}  
+{"Vishnu" : "Restored to life" : "Vrihadgarbha"}  
+{"Vishnu" : "Tested devotion of" : "Sivi"}  
+
+{"Skambha" : "Considered as" : "Supreme Deity"}  
+{"Skanda" : "God of" : "War"}  
+{"Skanda" : "Also known as" : "Karttikeya"}  
+{"Skanda Purana" : "Narrated by" : "Skanda"}  
+{"Skanda Purana" : "Dedicated to" : "Siva"}  
+{"Kasi Khanda" : "Describes temples of" : "Siva"}  
+{"Kasi Khanda" : "Gives instructions for worshipping" : "Siva"}  
+{"Utkala Khanda" : "Associated with" : "Orissa"}  
+
+{"Soma" : "Son of" : "Atri"}  
+{"Soma" : "Son of" : "Anasuya"}  
+{"Soma" : "Married" : "27 Daughters of Daksha"}  
+{"Soma" : "Husband of" : "Rohini"}  
+{"Daksha" : "Father-in-law of" : "Soma"}  
+{"Daksha" : "Cursed" : "Soma"}  
+{"Soma" : "Abducted" : "Tara"}  
+{"Brihaspati" : "Husband of" : "Tara"}  
+{"Usanas" : "Supported" : "Soma"}  
+{"Danavas" : "Supported" : "Soma"}  
+{"Daityas" : "Supported" : "Soma"}  
+{"Indra" : "Supported" : "Brihaspati"}  
+{"Gods" : "Supported" : "Brihaspati"}  
+{"Siva" : "Cut in two body of" : "Soma"}  
+{"Brahma" : "Stopped quarrel of" : "Soma and Brihaspati"}  
+{"Soma" : "Father of" : "Budha"}  
+{"Tara" : "Mother of" : "Budha"}  
+{"Budha" : "Son of" : "Soma"}  
+{"Budha" : "Son of" : "Tara"}  
+{"Soma" : "Also Known As" : "Chandra"}  
+{"Soma" : "Also Known As" : "Indu"}  
+{"Soma" : "Also Known As" : "Sasi"}  
+{"Soma" : "Also Known As" : "Nisakara"}  
+{"Soma" : "Also Known As" : "Nakshatranatha"}  
+{"Soma" : "Also Known As" : "Sitamarichi"}  
+{"Soma" : "Also Known As" : "Sitansu"}  
+{"Soma" : "Also Known As" : "Mriganka"}  
+{"Soma" : "Also Known As" : "Sivasekhara"}  
+{"Soma" : "Also Known As" : "Kumudapati"}  
+{"Soma" : "Also Known As" : "Swetavaji"}
+   
+
+{"Somadeva Bhatta" : "Writer Of" : "Katha-sarit-sagara"}
+{"Somaka" : "Grandfather Of" : "Drupada"}
+{"Somanatha" : "Is An Emblem Of" : "Siva"}
+{"Mahmud of Ghazni" : "Destroyed" : "Somanatha"}
+
+{"Soma Vansa" : "Also Known As" : "Chandra Vansa"}
+{"Sraddha" : "Daughter Of" : "Daksha"}
+{"Sraddha" : "Wife Of" : "Dharma"}
+{"Sraddha" : "Mother Of" : "Kama-deva"}
+{"Sraddha-Deva" : "Also Known As" : "Manu"}
+{"Sraddha-Deva" : "Also Known As" : "Yama"}
+{"Sri" : "Wife Of" : "Vishnu"}
+{"Sri" : "Also Known As" : "Lakshmi"}
+{"Sri Daman" : "Friend Of" : "Krishna"}
+{"Guha" : "Friend Of" : "Rama"}
+{"Sri Harsha Deva" : "Author Of" : "Naishadha"}
+{"Sri Harsha Deva" : "Author Of" : "Ratnavali"}
+{"Rudra Bhatta" : "Author Of" : "Sringara Tilaka"}
+{"Srutakirtti" : "Cousin Of" : "Sita"}
+{"Srutakirtti" : "Wife Of" : "Satrughna"}
+{"Sthanu" : "Also Known As" : "Siva"}
+{"Sthuna-Karna" : "Changed Sexes With" : "Sikhandini"}
+{"Subahu" : "Son Of" : "Dhritarashtra"}
+{"Subahu" : "Son Of" : "Satrughna"}
+{"Subahu" : "King Of" : "Chedi"}
+{"Subahu" : "King Of" : "Mathura"}
+{"Subala" : "Father Of" : "Gandhari"}
+{"Gandhari" : "Wife Of" : "Dhritarashtra"}
+{"Subhadra" : "Daughter Of" : "Vasudeva"}
+{"Subhadra" : "Sister Of" : "Krishna"}
+{"Subhadra" : "Sister Of" : "Balarama"}
+{"Subhadra" : "Wife Of" : "Arjuna"}
+{"Subhadra" : "Mother Of" : "Abhimanyu"}
+{"Arjuna" : "Carried Off" : "Subhadra"}
+{"Subhadra" : "Appears With" : "Jagannatha"}
+{"Subhadra" : "Appears With" : "Balarama"}
+{"Rati" : "Wife Of" : "Kama"}
+{"Yakshi" : "Wife Of" : "Kubera"}
+{"Subhanu" : "Son Of" : "Krishna"}
+{"Subhanu" : "Son Of" : "Satyabhama"}
+
+{"SuBrahmanya" : "Also Known As" : "Kartikeya"}  
+{"SuCharu" : "Son Of" : "Krishna"}  
+{"SuCharu" : "Son Of" : "Rukmini"}  
+{"SuDeshna" : "Son Of" : "Krishna"}  
+{"SuDeshna" : "Son Of" : "Rukmini"}  
+{"SuDeshna" : "Wife Of" : "Raja Virata"}  
+{"SuDeshna" : "Mistress Of" : "Draupadi"}  
+{"SuDeshna" : "Wife Of" : "Bali"}  
+{"SuDyumna" : "Son Of" : "Manu Vaivaswata"}  
+{"SuDyumna" : "Also Known As" : "Ila"}  
+{"Ila" : "Wife Of" : "Budha"}  
+{"Ila" : "Mother Of" : "Pururavas"}  
+{"SuDyumna" : "Favoured By" : "Vishnu"}  
+{"SDyumna" : "Cursed By" : "Siva"}
+  
+{"Sugriva" : "Brother Of" : "Bali"}
+{"Sugriva" : "Re-installed As King By" : "Rama"}
+{"Sugriva" : "Ally Of" : "Rama"}
+{"Sugriva" : "Advised By" : "Hanuman"}
+{"Sugriva" : "Enemy Of" : "Ravana"}
+{"Sugriva" : "Son Of" : "Surya"}
+{"Sugriva" : "Husband Of" : "Ruma"}
+
+{"Sukra" : "Son Of" : "Bhrigu"}
+{"Sukra" : "Priest Of" : "Bali"}
+{"Sukra" : "Priest Of" : "Daityas"}
+{"Sukra" : "Son Of" : "Kavi"}
+{"Sukra" : "Husband Of" : "Susuma"}
+{"Sukra" : "Father Of" : "Devayani"}
+{"Devayani" : "Wife Of" : "Yayati"}
+{"Sukra" : "Also Known As" : "Usanas"}
+{"Sukra" : "Asked Boon From" : "Siva"}
+{"Vishnu" : "Killed" : "Sukra's Mother"}
+{"Sukra" : "Cursed" : "Vishnu"}
+{"Indra" : "Father Of" : "Jayanti"}
+{"Jayanti" : "Wife Of" : "Sukra"}
+{"Sukra" : "Also Known As" : "Bhargava"}
+{"Sukra" : "Also Known As" : "Kavi"}
+
+{"Su-Mantra" : "Counsellor Of" : "Raja Dasaratha"}
+{"Su-Mantra" : "Friend Of" : "Rama"}
+
+{"SuMantu" : "Pupil Of" : "Veda Vyasa"}
+{"SuMantu" : "Guided By" : "Veda Vyasa"}
+
+{"Sumbha" : "Brother Of" : "Nishumbha"}
+{"Sumbha" : "Killed By" : "Durga"}
+{"Nishumbha" : "Killed By" : "Durga"}
+{"Sumbha" : "Votary Of" : "Siva"}
+{"Nishumbha" : "Votary Of" : "Siva"}
+{"Indra" : "Advised" : "Kama"}
+{"Kama" : "Assisted By" : "Rambha"}
+{"Kama" : "Assisted By" : "Tilottama"}
+{"Durga" : "Killed" : "Chanda"}
+{"Durga" : "Killed" : "Munda"}
+{"Durga" : "Killed" : "Sumbha"}
+{"Durga" : "Killed" : "Nishumbha"}
+
+{"Sumitra" : "Wife Of" : "Dasaratha"}
+{"Sumitra" : "Mother Of" : "Lakshmana"}
+{"Sumitra" : "Mother Of" : "Satru-ghna"}
+
+{"Sunahsephas" : "Son Of" : "Ajigartta"}
+{"Sunahsephas" : "Adopted By" : "Viswamitra"}
+{"Rohita" : "Son Of" : "Harischandra"}
+{"Harischandra" : "Son Of" : "Varuna"}
+{"Rohita" : "Purchased" : "Sunahsephas"}
+{"Ajigartta" : "Father Of" : "Sunahsephas"}
+{"Viswamitra" : "Taught Hymns To" : "Sunahsephas"}
+{"Indra" : "Saved" : "Sunahsephas"}
+{"Vishnu" : "Saved" : "Sunahsephas"}
+{"Sunahsephas" : "Also Known As" : "Devarata"}
+{"Viswamitra" : "Father Of" : "Sunahsephas"}
+
+{"Sunaman" : "Son of" : "Ugrasena"}
+{"Sunaman" : "Brother of" : "Kansa"}
+{"Sunaman" : "Slain by" : "Balarama"}
+{"Sunda" : "Brother of" : "Upasunda"}
+{"Sunda" : "Son of" : "Nisunda"}
+{"Upasunda" : "Brother of" : "Sunda"}
+{"Upasunda" : "Son of" : "Nisunda"}
+{"Tilottama" : "Desired by" : "Sunda"}
+{"Tilottama" : "Desired by" : "Upasunda"}
+{"Su-Parswa" : "Son of" : "Sampati"}
+{"Su-Parswa" : "Nephew of" : "Jatayus"}
+{"Supriya" : "Chief of" : "Gandharvas"}
+{"Sora" : "Father of" : "Vasudeva"}
+{"Sora" : "Father of" : "Kunti"}
+{"Sora" : "Grandfather of" : "Krishna"}
+
+{"Surasa" : "Mother of" : "Nagas"}
+{"Surasa" : "Tried to swallow" : "Hanuman"}
+
+{"Surpanakha" : "Sister of" : "Ravana"}
+{"Surpanakha" : "Attacked" : "Sita"}
+{"Surpanakha" : "Disfigured by" : "Lakshmana"}
+{"Surpanakha" : "Cursed" : "Ravana"}
+
+{"Surya" : "Son of" : "Kasyapa"}
+{"Surya" : "Son of" : "Aditi"}
+{"Surya" : "Son of" : "Brahma"}
+{"Surya" : "Husband of" : "Sanjna"}
+{"Surya" : "Father of" : "Vaivaswata Manu"}
+{"Surya" : "Father of" : "Yama"}
+{"Surya" : "Father of" : "Yami"}
+{"Surya" : "Father of" : "Aswins"}
+{"Surya" : "Father of" : "Revanta"}
+{"Surya" : "Father of" : "Karna"}
+{"Surya" : "Father of" : "Sani"}
+{"Surya" : "Father of" : "Sugriva"}
+{"Surya" : "Son-in-law of" : "Viswakarma"}
+{"Surya" : "Charioteer" : "Aruna"}
+{"Surya" : "Bestowed gem on" : "Satrajit"}
+
+{"Surya" : "Also Known As" : "Vivaswat"}
+{"Surya" : "Also Known As" : "Aditya"}
+{"Surya" : "Also Known As" : "Bhaskara"}
+{"Surya" : "Also Known As" : "Graharaja"}
+{"Surya" : "Also Known As" : "Savita"}
+{"Surya" : "Also Known As" : "Divakara"}
+{"Surya" : "Also Known As" : "Savitri"}
+{"Surya" : "Also Known As" : "Sivakara"}
+{"Surya" : "Also Known As" : "Mihira"}
+
+{"Surya Siddhanta" : "Revealed By" : "Surya"}
+{"Surya Vansa" : "Descended From" : "Ikshvaku"}
+{"Surya Vansa" : "also known as" : "Solar Race"}
+{"Rama" : "Belongs To" : "Surya Vansa"}
+{"Vikukshi" : "Son Of" : "Ikshvaku"}
+{"Nimi" : "Son Of" : "Ikshvaku"}
+{"Susarman" : "Enemy Of" : "Virata"}
+{"Bhima" : "Rescued" : "Virata"}
+{"Bhima" : "Captured" : "Susarman"}
+{"Sushena" : "Son Of" : "Krishna"}
+{"Sushena" : "Son Of" : "Rukmini"}
+{"Sushena" : "Physician Of" : "Rama"}
+{"Sushna" : "Killed By" : "Indra"}
+{"Suta" : "Title Given To" : "Karna"}
+{"Sutikshna" : "Visited By" : "Rama"}
+{"Sutikshna" : "Visited By" : "Sita"}
+
+{"Suvahu" : "Son Of" : "Taraka"}
+{"Suvahu" : "Killed By" : "Rama"}
+{"Suyodhana" : "Also Known As" : "Duryodhana"}
+{"Swadha" : "Daughter Of" : "Daksha"}
+{"Swadha" : "Daughter Of" : "Prasuti"}
+{"Swadha" : "Daughter Of" : "Agni"}
+{"Swadha" : "Wife Of" : "Kavi"}
+{"Swadha" : "Connected With" : "Pitris"}
+{"Swaha" : "Daughter Of" : "Daksha"}
+{"Swaha" : "Daughter Of" : "Prasuti"}
+{"Swaha" : "Wife Of" : "Vahni"}
+{"Swaha" : "Wife Of" : "Abhimani"}
+{"Swaphalaka" : "Husband Of" : "Gandini"}
+{"Swaphalaka" : "Father Of" : "Akrura"}
+
+{"Swarga" : "Also Known As" : "Sairibha"}
+{"Swarga" : "Also Known As" : "Misrakavana"}
+{"Swarga" : "Also Known As" : "Tavisha"}
+{"Swarga" : "Also Known As" : "Tridivam"}
+{"Swarga" : "Also Known As" : "Tripishiapam"}
+{"Swarga" : "Also Known As" : "Trdhwaloka"}
+
+{"SwayamBhu" : "Also Known As" : "Brahma"}
+{"SwayamBhuva" : " Also Known As " : "First Manu"}
+{"Swarochisha" : " Also Known As: "Second Manu"}
+
+
+{"Syala" : "Insulted" : "Sage Gargya"}
+{"Syala" : "Father Of" : "Kalayavana"}
+
+{"Syama" : " Also Known As " : "Devi"}
+{"Syama" : "Consort Of" : "Siva"}
+
+{"Syamantaka" : "Given By" : "Surya"}
+{"Syamantaka" : "Given To" : "Satrajita"}
+{"Satrajita" : "Brother Of" : "Prasena"}
+{"Prasena" : "Killed By" : "Lion"}
+{"Lion" : "Killed By" : "Jambavat"}
+{"Jambavat" : "King Of" : "Bears"}
+{"Krishna" : "Fought With" : "Jambavat"}
+{"Krishna" : "Restored Gem To" : "Satrajita"}
+{"Satrajita" : "Killed By" : "Satadhanwan"}
+{"Satadhanwan" : "Pursued By" : "Krishna"}
+{"Satadhanwan" : "Pursued By" : "Balarama"}
+{"Satadhanwan" : "Gave Gem To" : "Akrura"}
+{"Satadhanwan" : "Killed By" : "Krishna"}
+{"Akrura" : "Kept Gem From" : "Krishna"}
+{"Akrura" : "Kept Gem From" : "Balarama"}
+{"Akrura" : "Kept Gem From" : "Satyabhama"}
+
+{"Syavaswa" : "Son Of" : "Archananas"}
+{"Archananas" : "Asked Daughter Of" : "Rathaviti"}
+{"Syavaswa" : "Married Daughter Of" : "Rathaviti"}
+{"Syavaswa" : "Became Rishi By" : "Maruts"}
+{"Sasiyasi" : "Wife Of" : "Raja Taranta"}
+{"Sasiyasi" : "Gave Gifts To" : "Syavaswa"}
+{"Raja Taranta" : "Permitted" : "Sasiyasi"}
+{"Raja Taranta" : "Gave Gifts To" : "Syavaswa"}
+{"Purumilha" : "Brother Of" : "Raja Taranta"}
+
+{"Taksha" : "Son Of" : "Bharata"}
+{"Taksha" : "Nephew Of" : "Rama"}
+{"Takshaka" : "Son Of" : "Kadru"}
+{"Takshaka" : "Is A Name Of" : "Viswakarma"}
+
+{"Taksha" : "Son Of" : "Bharata"}
+{"Taksha" : "Nephew Of" : "Rama-chandra"}
+{"Takshasila" : "Residence Of" : "Taksha"}
+
+{"Talajangha" : "Son Of" : "Jaya-dhwaja"}
+{"Jayadhwaja" : "King Of" : "Avanti"}
+{"Talajangha" : "Founder Of Tribe" : "Talajangha Haihayas"}
+
+{"Talaketu" : "Is A Name Of" : "Bhishma"}
+{"Talaketu" : "Killed By" : "Krishna"}
+{"Balarama" : "Also Known As" : "Taladhwaja"}
+
+{"Tandu" : "Attendant Of" : "Siva"}
+{"Tandu" : "Invented Dance" : "Tandava"}
+
+{"Tapati" : "Daughter Of" : "Sun"}
+{"Tapati" : "Mother Of" : "Kuru"}
+{"Kuru" : "Son Of" : "Samvarana and Tapati"}
+
+{"Tara" : "Wife Of" : "Balin"}
+{"Tara" : "Mother Of" : "Angada"}
+{"Tara" : "Later Wife Of" : "Sugriva"}
+
+{"Tara" : "Wife Of" : "Brihaspati"}
+{"Tara" : "Carried Off By" : "Soma"}
+{"Budha" : "Son Of" : "Soma and Tara"}
+
+{"Taraka" : "Son Of" : "Vajranaka"}
+{"Taraka" : "Killed By" : "Skanda"}
+
+{"Taraka" : "Daughter Of" : "Suketu"}
+{"Taraka" : "Daughter Of" : "Sunda"}
+{"Taraka" : "Mother Of" : "Maricha"}
+{"Taraka" : "Changed Into" : "Rakshasi by Agastya"}
+{"Taraka" : "Killed By" : "Rama"}
+
+
+{"Tarkshya" : "Personification Of" : "Sun"}
+{"Tarkshya" : "Later Applied To" : "Garuda"}
+
+{"Tilottama" : "Originally" : "Brahman Female"}
+{"Tilottama" : "Cursed To Become" : "Apsaras"}
+{"Tilottama" : "Cause Of Death" : "Sunda"}
+{"Tilottama" : "Cause Of Death" : "Upasunda"}
+
+{"Tittiri" : "Pupil Of" : "Yaska"}
+{"Tosalaka" : "Killed By" : "Krishna"}
+{"Trasadasyu" : "Father Of" : "Purukutsa"}
+{"Trijata" : "Befriended" : "Sita"}
+{"Tri-lochana" : "Is" : "Siva"}
+{"Siva" : "Destroyed" : "Kama"}
+
+{"TriMurti" : "Consists Of" : "Brahma"}
+{"TriMurti" : "Consists Of" : "Vishnu"}
+{"TriMurti" : "Consists Of" : "Siva"}
+{"Brahma" : "Embodiment Of" : "Rajoguna"}
+{"Vishnu" : "Embodiment Of" : "Satwaguna"}
+{"Siva" : "Embodiment Of" : "Tamoguna"}
+{"Krishna" : "Killed" : "Trinavartta"}
+{"Tripura" : "Gifted By" : "Siva"}
+{"Tripura" : "Gifted By" : "Brahma"}
+{"Tripura" : "Gifted By" : "Vishnu"}
+{"Siva" : "Killed" : "Tripura"}
+{"TriSiras" : "Son Of" : "Twashtri"}
+{"TriSiras" : "Killed By" : "Rama"}
+{"TriSiras" : "Friend Of" : "Ravana"}
+
+{"Trita" : "Brother Of" : "Ekata"}
+{"Trita" : "Brother Of" : "Dwita"}
+{"Ekata" : "Brother Of" : "Trita"}
+{"Dwita" : "Brother Of" : "Trita"}
+{"Ekata" : "Brother Of" : "Dwita"}
+{"Dwita" : "Brother Of" : "Ekata"}
+{"Ekata, Dwita, Trita" : "Produced By" : "Agni"}
+{"Trita" : "Helped By" : "Gods"}
+{"Tritsus" : "Disciples Of" : "Vasishtha"}
+{"Vasishtha" : "Belonged To" : "Tritsus"}
+{"Ganga" : "Unites With" : "Yamuna"}
+{"Ganga" : "Unites With" : "Saraswati"}
+{"Yamuna" : "Unites With" : "Saraswati"}
+{"Vishnu" : "Name" : "Tri-Vikrama"}
+{"Vishnu" : "Took Steps As" : "Agni"}
+{"Vishnu" : "Took Steps As" : "Vayu"}
+{"Vishnu" : "Took Steps As" : "Surya"}
+{"Tri-Vikrama" : "Form Of" : "Vishnu"}
+{"Tryambaka" : "Name Of" : "Siva"}
+{"Tryambaka" : "One Of" : "Rudras"}
+{"Tryambaka" : "One Of" : "Twelve Great Lingas"}
+{"Tryaruna" : "Son Of" : "Trivrishan"}
+{"Tryaruna" : "Of Race" : "Ikshvaku"}
+{"Vrisa" : "Priest Of" : "Tryaruna"}
+{"Vrisa" : "Restored To Life" : "Brahman Boy"}
+{"Ikshwakus" : "Appeased" : "Vrisa"}
+
+{"Tundra" : "Slain By" : "Nahusha"}
+{"Nahusha" : "Son Of" : "Ayus"}
+{"Vitunda" : "Son Of" : "Tunda"}
+{"Vitunda" : "Slain By" : "Bhagavati"}
+{"Turvasa" : "Son Of" : "Yayati"}
+{"Turvasa" : "Son Of" : "Devayani"}
+{"Turvasa" : "Brother Of" : "Puru"}
+{"Puru" : "Brother Of" : "Turvasa"}
+{"Twastri" : "Father Of" : "Viswa-rupa"}
+{"Viswarupa" : "Son Of" : "Twastri"}
+{"Viswarupa" : "Also Known As" : "Trisiras"}
+{"Viswarupa" : "Slain By" : "Indra"}
+{"Twastri" : "Father Of" : "Saranyu"}
+{"Saranyu" : "Daughter Of" : "Twastri"}
+{"Saranyu" : "Wife Of" : "Vivaswat"}
+{"Vivaswat" : "Husband Of" : "Saranyu"}
+{"Saranyu" : "Mother Of" : "Aswins"}
+{"Aswins" : "Sons Of" : "Saranyu"}
+{"Twastri" : "Identified With" : "Viswakarman"}
+{"Twastri" : "Identified With" : "Prajapati"}
+
+{"Uchchaisravas" : "Horse Of" : "Indra"}
+{"Udayana" : "Son Of" : "Sahasranika"}
+{"Udayana" : "King Of" : "Vatsa"}
+{"Udayana" : "Also Known As" : "Vatsa-raja"}
+{"Udayana" : "Capital At" : "Kausambi"}
+{"Vasavadatta" : "Daughter Of" : "Chandasena"}
+{"Vasavadatta" : "Wife Of" : "Udayana"}
+{"Udayana" : "Husband Of" : "Vasavadatta"}
+{"Udayana" : "Also Known As" : "Agastya"}
+{"Uddhava" : "Friend Of" : "Krishna"}
+{"Uddhava" : "Counsellor Of" : "Krishna"}
+{"Uddhava" : "Son Of" : "Devabhaga"}
+{"Devabhaga" : "Brother Of" : "Vasudeva"}
+{"Uddhava" : "Cousin Of" : "Krishna"}
+{"Uddhava" : "Also Known As" : "Pavanavyadhi"}
+{"Ugra" : "Also Known As" : "Rudra"}
+{"Ugrasena" : "Father Of" : "Kansa"}
+{"Ugrasena" : "Father Of" : "Devaka"}
+{"Ugrasena" : "Husband Of" : "Karni"}
+{"Kansa" : "Son Of" : "Ugrasena"}
+{"Devaka" : "Son Of" : "Ugrasena"}
+{"Kansa" : "Deposed" : "Ugrasena"}
+{"Krishna" : "Killed" : "Kansa"}
+{"Krishna" : "Restored" : "Ugrasena"}
+{"Ulukha" : "Son Of" : "Kitava"}
+{"Ulukha" : "Ally Of" : "Kauravas"}
+{"Ulukha" : "Envoy To" : "Pandavas"}
+{"Ulupi" : "Daughter Of" : "Kauravya"}
+{"Ulupi" : "Wife Of" : "Arjuna"}
+{"Arjuna" : "Husband Of" : "Ulupi"}
+{"Ulupi" : "Mother Of" : "Iravat"}
+{"Iravat" : "Son Of" : "Ulupi"}
+{"Ulupi" : "Step-Mother Of" : "Babhruvahana"}
+{"Uma" : "Consort Of" : "Siva"}
+{"Siva" : "Husband Of" : "Uma"}
+{"Uma" : "Also Known As" : "Vach"}
+{"Siva" : "Also Known As" : "Uma-pati"}
+
+
+{"Upaplavya" : "Capital Of" : "Virata"}
+{"Uparichara" : "Also Known As" : "Vasu"}
+{"Uparichara" : "King Of" : "Chedi"}
+{"Uparichara" : "Appointed By" : "Indra"}
+{"Uparichara" : "Consort Of" : "Adrika"}
+{"Adrika" : "Condemned To Live As" : "Fish"}
+{"Matsya" : "Son Of" : "Uparichara"}
+{"Matsya" : "Son Of" : "Adrika"}
+{"Satyavati" : "Daughter Of" : "Uparichara"}
+{"Satyavati" : "Daughter Of" : "Adrika"}
+{"Satyavati" : "Mother Of" : "Vyasa"}
+{"Upasunda" : "Son Of" : "Nisunda"}
+{"Upasunda" : "Brother Of" : "Sunda"}
+{"Upasunda" : "Father Of" : "Muka"}
+{"Upendra" : "Title Given To" : "Krishna"}
+{"Uragas" : "Also Known As" : "Nagas"}
+{"Uragas" : "Inhabit" : "Patala"}
+
+{"Urmila" : "Daughter Of" : "Janaka"}
+{"Urmila" : "Sister Of" : "Sita"}
+{"Urmila" : "Wife Of" : "Lakshmana"}
+{"Urmila" : "Mother Of" : "Gandharvi Somada"}
+
+{"Urva" : "Father Of" : "Richika"}
+{"Urva" : "Grandfather Of" : "Jamad-agni"}
+
+{"Urvasi" : "Caused Birth Of" : "Agastya"}
+{"Urvasi" : "Caused Birth Of" : "Vasishtha"}
+{"Agastya" : "Son Of" : "Mitra"}
+{"Agastya" : "Son Of" : "Varuna"}
+{"Vasishtha" : "Son Of" : "Mitra"}
+{"Vasishtha" : "Son Of" : "Varuna"}
+{"Urvasi" : "Wife Of" : "Pururavas"}
+
+{"Usanas" : "Also Known As" : "Sukra (Venus)"}
+{"Usanas" : "Author Of" : "Dharma-sastra"}
+
+{"Usha" : "Daughter Of" : "Bana"}
+{"Usha" : "Granddaughter Of" : "Bali"}
+{"Usha" : "Wife Of" : "Aniruddha"}
+{"Usha" : "Helped By" : "Chitralekha"}
+{"Chitralekha" : "Brought" : "Aniruddha"}
+{"Aniruddha" : "Son Of" : "Pradyumna"}
+{"Aniruddha" : "Grandson Of" : "Krishna"}
+{"Bana" : "Supported By" : "Siva"}
+{"Bana" : "Supported By" : "Skanda"}
+{"Aniruddha" : "Rescued By" : "Krishna"}
+{"Aniruddha" : "Rescued By" : "Pradyumna"}
+{"Aniruddha" : "Rescued By" : "Balarama"}
+
+{"Ushas" : "Daughter Of" : "Dyaus"}
+{"Ushas" : "Sister Of" : "Adityas"}
+
+{"Usij" : "Mother Of" : "Kakshivat"}
+{"Usij" : "Consort Of" : "Dirghatamas"}
+{"Kakshivat" : "Son Of" : "Dirghatamas"}
+{"Kakshivat" : "Affiliated By" : "Kalinga Raja"}
+
+{"Utathya" : "Married To" : "Bhadra"}
+{"Bhadra" : "Daughter Of" : "Soma"}
+{"Bhadra" : "Carried Off By" : "Varuna"}
+{"Utathya" : "Enemy Of" : "Varuna"}
+{"Varuna" : "Defeated By" : "Utathya"}
+{"Bhadra" : "Restored To" : "Utathya"}
+
+{"Utkala" : "Also Known As" : "Orissa"}
+
+{"Uttamaujas" : "Ally Of" : "Pandavas"}
+
+{"Uttanapada" : "Son Of" : "Manu"}
+{"Uttanapada" : "Son Of" : "Satarupa"}
+{"Uttanapada" : "Husband Of" : "Sunrita"}
+{"Uttanapada" : "Father Of" : "Dhruva"}
+{"Uttanapada" : "Father Of" : "Kirtiman"}
+{"Uttanapada" : "Father Of" : "Ayushman"}
+{"Uttanapada" : "Father Of" : "Vasu"}
+{"Uttanapada" : "Husband Of" : "Suruchi"}
+{"Uttanapada" : "Father Of" : "Uttama"}
+
+{"Uttara " : "Son Of" : "Raja Virata"}
+{"Uttara " : "Killed By" : "Salya"}
+{"Uttara" : "Daughter Of" : "Raja Virata"}
+{"Uttara" : "Wife Of" : "Abhimanyu"}
+{"Abhimanyu" : "Son Of" : "Arjuna"}
+
+{"Vach" : "Associated With" : "Prajapati"}
+{"Vach" : "Wife Of" : "Indra"}
+{"Vach" : "Mother Of" : "Vedas"}
+{"Vach" : "Daughter Of" : "Kama"}
+{"Vach" : "Identified With" : "Viraj"}
+{"Vach" : "Identified With" : "Saraswati"}
+{"Vach" : "Daughter Of" : "Brahma"}
+{"Vach" : "Wife Of" : "Brahma"}
+{"Vach" : "Daughter Of" : "Daksha"}
+{"Vach" : "Wife Of" : "Kasyapa"}
+{"Vach" : "Mother Of" : "Gandharvas"}
+{"Vach" : "Mother Of" : "Apsarases"}
+
+{"Vadavanala" : "Also Known As" : "Vadava"}
+{"Vadavanala" : "Also Known As" : "Badava"}
+{"Vadavanala" : "See Also" : "Aurva"}
+
+{"Brahma" : "Vahana" : "Hamsa"}
+{"Vishnu" : "Vahana" : "Garuda"}
+{"Siva" : "Vahana" : "Nandi"}
+{"Indra" : "Vahana" : "Elephant"}
+{"Yama" : "Vahana" : "Buffalo"}
+{"Kartikeya" : "Vahana" : "Peacock"}
+{"Kama-deva" : "Vahana" : "Makara"}
+{"Kama-deva" : "Vahana" : "Parrot"}
+{"Agni" : "Vahana" : "Ram"}
+{"Varuna" : "Vahana" : "Fish"}
+{"Ganesa" : "Vahana" : "Rat"}
+{"Vayu" : "Vahana" : "Antelope"}
+{"Sani" : "Vahana" : "Vulture"}
+{"Durga" : "Vahana" : "Tiger"}
+
+{"Nala" : "Also Known As" : "Vahuka"}
+
+{"Janaka" : "Also Known As" : "Vaideha"}
+{"Sita" : "Also Known As" : "Vaidehi"}
+
+{"Siva" : "Also Known As" : "Vaidyanatha"}
+
+{"Karna" : "Also Known As" : "Vaikarttana"}
+{"Karna" : "Son Of" : "Surya (Vikarttana)"}
+
+{"Vishnu" : "Abode" : "Vaikuntha"}
+{"Garuda" : "Also Known As" : "Vainateya"}
+
+{"Manu" : "Son Of" : "Viraj"}
+{"Manu" : "Also Known As" : "Vairaj"}
+
+{"Bali" : "Also Known As" : "Vairochana"}
+
+{"Vaisali" : "Founded By" : "Visala"}
+{"Visala" : "Son Of" : "Trinabindu"}
+
+{"Vaisampayana" : "Pupil Of" : "Vyasa"}
+{"Vaisampayana" : "Taught" : "Janamejaya"}
+{"Vaisampayana" : "Learned" : "Mahabharata"}
+{"Vaisampayana" : "Recited To" : "Janamejaya"}
+
+{"Vaisravana" : "Also Known As" : "Kubera"}
+
+{"Agni" : "Also Known As" : "Vaisvanara"}
+
+{"Vaivaswata" : "Son Of" : "Surya"}
+{"Vaivaswata" : "Father Of" : "Ikshvaku"}
+{"Ikshvaku" : "Founder Of" : "Solar Race"}
+
+{"Indra" : "Weapon" : "Vajra"}
+{"Vajra" : "Made From" : "Bones Of Dadhichi"}
+
+{"Vajra" : "Son Of" : "Aniruddha"}
+{"Vajra" : "Mother" : "Usha"}
+{"Krishna" : "Made King" : "Vajra"}
+
+{"Vajranabha" : "Weapon Of" : "Krishna"}
+{"Krishna" : "Fought Against" : "Indra"}
+
+{"Vaka" : "Type" : "Asura"}
+{"Vaka" : "Lived Near" : "Eka-chakra"}
+{"Vaka" : "Fought With" : "Bhima"}
+{"Bhima" : "Son Of" : "Kunti"}
+{"Vaka" : "Also Known As" : "Kuvera"}
+
+{"Vala-Khilyas" : "Number Of Hymns" : "11"}
+{"Vala-Khilyas" : "Brought Forth By" : "Samnati"}
+{"Samnati" : "Wife Of" : "Kratu"}
+{"Vala-Khilyas" : "Sprang From" : "Hairs Of Prajapati"}
+{"Vala-Khilyas" : "Also Known As" : "Kharwas"}
+
+{"Valmiki" : "Author Of" : "Ramayana"}
+{"Valmiki" : "Taught" : "Kusa"}
+{"Valmiki" : "Taught" : "Lava"}
+{"Valmiki" : "Abode" : "Chitrakuta"}
+{"Valmiki" : "Invention" : "Sloka"}
+
+{"Vama-deva" : "Type" : "Vedic Rishi"}
+{"Vama-deva" : "Mentioned In" : "Mahabharata"}
+{"Vama-deva" : "Possessed Horses" : "Vamyas"}
+{"Vama-deva" : "Also Known As" : "Siva"}
+{"Vama-deva" : "Also Known As" : "Rudra"}
+
+{"Vamana" : "Type" : "Dwarf Incarnation Of Vishnu"}
+{"Vamana Purana" : "Contains" : "Vamana"}
+{"Vamana Purana" : "Taught By" : "Four-faced Brahma"}
+
+{"Vanaprastha" : "Type" : "Brahman In Third Stage"}
+{"Vanaprastha" : "Lived" : "As Anchorite In Woods"}
+
+{"Vana-charas" : "Type" : "Wanderers Of Woods"}
+{"Vana-charas" : "Also Known As" : "Fauns/Dryads/Sylvan Guardians"}
+
+{"Vansa" : "Type" : "Race Or Family"}
+{"Vansa" : "Contains" : "Lists Of Rishis"}
+
+{"Vansa-Brahmana" : "Type" : "Brahmana"}
+{"Vansa-Brahmana" : "Edited By" : "Burnell"}
+
+{"Vapushmat" : "Killed By" : "Dama"}
+{"Dama" : "Grandson Of" : "Marutta"}
+{"Vapushmat" : "Killed" : "King Marutta"}
+{"Dama" : "Made Offerings With Blood Of" : "Vapushmat"}
+{"Dama" : "Fed Brahmans With Flesh Of" : "Vapushmat"}
+
+{"Varada" : "Type" : "Name of Devi"}
+{"Varada" : "Also Known As" : "Saraswati"}
+
+{"Varaha" : "Boar Incarnation of" : " Vishnu"}
+
+{"Varaha-Kalpa" : "Type" : "Present Kalpa or Year of Brahma"}
+
+{"Varaha Mihira" : "Occupation" : "Astronomer"}
+{"Varaha Mihira" : "One Of" : "Nine Gems of Vikramaditya"}
+{"Varaha Mihira" : "Author Of" : "Brihat-sanhita"}
+{"Varaha Mihira" : "Author Of" : "Brihajjataka"}
+{"Varaha Mihira" : "Death Year" : "Saka 509 (A.D. 587)"}
+
+{"Varaha Purana" : "Content" : "Glory of Varaha narrated to Earth by Vishnu"}
+{"Varaha Purana" : "Verses" : "Approximately 10,000 stanzas"}
+{"Varaha Purana" : "Time Period" : "Early part of 12th century"}
+
+{"Varansi" : "Type" : "Sacred City"}
+{"Varansi" : "Also Called" : "Kasi"}
+
+{"Varanavata" : "Type" : "City"}
+{"Varanavata" : "Inhabitants" : "Pandavas during exile"}
+
+{"Vararuchi" : "Occupation" : "Grammarian"}
+{"Vararuchi" : "Possibly Same As" : "Katyayana"}
+{"Vararuchi" : "One Of" : "Nine Gems of Vikramaditya"}
+
+{"Varddha-Kshatri" : "Patronymic Of" : "Jayadratha"}
+
+{"Varkshi" : "Type" : "Virtuous Woman"}
+{"Varkshi" : "Daughter Of" : "A Sage"}
+{"Varkshi" : "Husbands" : "Ten"}
+
+{"Brahman" : "Is A" : "Varna"}
+{"Kshatriya" : "Is A" : "Varna"}
+{"Vaisya" : "Is A" : "Varna"}
+{"Sidra" : "Is A" : "Varna"}
+
+{"Krishna" : "Descendent Of" : "Vrishni"}
+{"King Nala" : "Charioteer Of" : "Varshaneya"}
+
+{"Varuna" : "Son Of" : "Kardama"}
+{"Varuna" : "Father Of" : "Pushkara"}
+{"Varuna" : "Carried Off" : "Bhadra"}
+{"Utathya" : "Husband Of" : "Bhadra"}
+{"Varuna" : "Teacher Of" : "Vasishtha"}
+{"Varuna" : "Husband Of" : "Varunani"}
+{"Varunani" : "Goddess Of" : "Wine"}
+{"Varunani" : "Wife Of" : "Varuna"}
+{"Varuna" : "Father Of" : "Agasti"}
+{"Varuna" : "Sovereign Of" : "Waters"}
+{"Varuna" : "Provided Horses To" : "Richika"}
+
+{"Mitra" : "Works With" : "Varuna"}
+{"Indra" : "Works With" : "Varuna"}
+
+{"Vasanta" : "Personification Of" : "Spring"}
+{"Vasanta-Sena" : "Heroine Of" : "Mrichchhakati"}
+{"Vasava-Datta" : "Princess Of" : "Ujjayint"}
+{"Vasava-Datta" : "Heroine Of" : "Story By Subandhu"}
+
+{"Vasishtha" : "Rival Of" : "Viswamitra"}
+{"Vasishtha" : "Possessor Of" : "Nandini"}
+{"Vasishtha" : "Son Of" : "Mitra"}
+{"Vasishtha" : "Son Of" : "Varuna"}
+{"Vasishtha" : "Born From Soul Of" : "Urvasi"}
+{" Agastya " : "Son Of" : "Mitra"}
+{" Agastya " : "Son Of" : "Varuna"}
+{"Agastya" : "Born In" : "Jar"}
+{"Vasishtha" : "Family Priest Of" : "King Sudas"}
+{"Vasishtha" : "Family Priest Of" : "Kalmasha-pada"}
+{"Vasishtha" : "Father Of" : "Saktri"}
+{"Vasishtha" : "Husband Of" : "Urja"}
+{"Vasishtha" : "Husband Of" : "Arundhati"}
+{"Vasishtha" : "Family Priest Of" : "House Of Ikshwaku"}
+{"Vasishtha" : "Cursed" : "Viswamitra"}
+{"Viswamitra" : "Cursed" : "Sons Of Vasishtha"}
+{"Vasishtha" : "Reconciled With" : "Viswamitra"}
+{"Vasishtha" : "Ancestor Of" : "Vasishthas"}
+{"Vasishtha" : "Ancestor Of" : "Vashkalas"}
+
+{"Vastosh-Patl" : "Protector Of" : "Houses"}
+{"Vasu" : "Class Of" : "Deities"}
+{"Vasu" : "Children Of" : "Aditi"}
+{"Vasu-Deva" : "Son Of" : "Sura"}
+{"Vasu-Deva" : "Father Of" : "Krishna"}
+{"Vasu-Deva" : "Brother Of" : "Kunti"}
+
+{"Vasu-Deva" : "Husband Of" : "Devaki"}
+{"Devaki" : "Mother Of" : "Krishna"}
+{"Vasu-Deva" : "Also Known As" : "Anakadundubhi"}
+{"Vasu-Deva" : "Also Known As" : "Bhukasyapa"}
+{"Vasu-Deva" : "Also Known As" : "Dundu"}
+{"Vasu-Deva" : "Identity Derived By" : "Krishna"}
+{"Paundraka" : "Impostor Of" : "Krishna"}
+{"Vasuki" : "King Of" : "Nagas"}
+{"Vasuki" : "Coiled Around" : "Mount Mandara"}
+{"Vasu-Sena" : "Also Known As" : "Karna"}
+{"Vata" : "Also Known As" : "Vayu"}
+{"Vatapi" : "Brother Of" : "Ilwala"}
+{"Vatapi" : "Enemy Of" : "Agastya"}
+{"Vata-Vasin" : "Dwells In" : "Fig Trees"}
+{"Vatsa" : "King Of" : "Vatsa"}
+{"Vatsyayana" : "Author Of" : "Kamasutras"}
+{"Vatsyayana" : "Author Of" : "Nyaysbhasha"}
+{"Vatsyayana" : "Also Known As" : "Mallanaga"}
+{"Vayu" : "God Of" : "Wind"}
+{"Vayu" : "Father Of" : "Bhima"}
+{"Vayu" : "Father Of" : "Hanumat"}
+{"Vayu" : "Son-in-law Of" : "Twashiri"}
+
+{"Vayu Purana" : "Contains" : "Laws of Duty"}
+{"Vayu Purana" : "Connected With" : "Sweta Kalpa"}
+{"Vayu Purana" : "Comprises" : "Mahatmya of Rudra"}
+{"Vayu Purana" : "Contains" : "24,000 Verses"}
+{"Vayu Purana" : "Devoted To" : "Praise of Siva"}
+{"Veda" : "Root Of" : "Vid, 'know' "}
+{"Vedas" : "Are" : "Holy Books"}
+{"Vedas" : "Foundation Of" : "Hindu Religion"}
+{"Vedas" : "Written In" : "Old Sanskrit"}
+{"Vedas" : "Composed Between" : "1500 and 1000 BC"}
+{"Vedas" : "Revealed To" : "Rishis"}
+{"Vedas" : "Known As" : "Sruti"}
+{"Vedas" : "Number Of" : "Four"}
+
+{"Veda-Matri" : "Meaning" : "Mother of the Vedas"}
+{"Gayatri" : "Associated With" : "Veda-Matri"}
+{"Vedangas" : "Meaning" : "Members of the Veda"}
+{"Vedangas" : "Number" : "Six"}
+{"Vedangas" : "Purpose" : "Necessary for reading, understanding, and proper sacrificial use of Vedas"}
+{"Siksha" : "Field" : "Phonetics / Pronunciation"}
+{"Siksha" : "Includes" : "Accents, Quantity, Euphony"}
+{"Chhandas" : "Field" : "Metre"}
+{"Vyakarana" : "Field" : "Grammar"}
+{"Vyakarana" : "Represented By" : "Panini / Older Grammars"}
+{"Nirukta" : "Field" : "Etymology / Glossary"}
+{"Nirukta" : "Represented By" : "Glossary of Yaska"}
+{"Jyotisha" : "Field" : "Astronomy"}
+{"Jyotisha" : "Purpose" : "Compile calendar for Vedic sacrifices and ceremonies"}
+{"Kalpa" : "Field" : "Ceremonial Rules"}
+{"Kalpa" : "Written In" : "Sutras / Kalpa-sutras / Srauta-sutras"}
+{"Vedanta" : "Field" : "Orthodox School of Philosophy"}
+{"Vedanta-Paribhasha" : "Type" : "Modern Textbook on Vedanta Philosophy"}
+{"Vedanta-Sara" : "Meaning" : "Essence of the Vedanta"}
+{"Vedanta-Sara" : "Translated By" : "Ballantyne, Bohtlingk, Roer, Frank"}
+{"Vedanta-Sotra" : "Content" : "Aphorisms of Badarayana on Vedanta Philosophy"}
+{"Vedanta-Sotra" : "Also Called" : "Brahma-sutras"}
+{"Vedanta-Sotra" : "Translation By" : "Rev. K. M. Banerjea, French by Poley"}
+{"Vedartha-Prakasa" : "Meaning" : "Elucidation of the meaning of the Veda"}
+{"Vedartha-Prakasa" : "Author" : "Sayana (Rig-Veda Commentary)"}
+{"Vedartha-Prakasa" : "Also By" : "Madhavacharya (Taittiriya Sanhita Commentary)"}
+{"Vedavati" : "Daughter of" : "Kusa-dhwaja "}
+{" Kusa-dhwaja " : "Son of" : "Brihaspati"}
+{"Vedavati" : "Met" : "Ravana in Himalaya Forest"}
+{"Vedavati" : "Practised" : "Austerities to gain Vishnu as Spouse"}
+{"Vedavati" : "Insulted By" : "Ravana"}
+{"Vedavati" : "Action After Insult" : "Cut off hair and entered fire"}
+{"Vedavati" : "Reborn As" : "Sita"}
+{"Vedavati" : "Cause Of" : "Ravana's Death"}
+{"Rama" : "Agent Of" : "Ravana's Death"}
+
+{"VedaVyasa" : "Meaning" : "The arranger of the Vedas"}
+{"Vedodaya" : "Meaning" : "Source of the Veda"}
+{"Vegavat" : "Meaning" : "Swift"}
+{"Vegavat" : "Son Of" : "Krishna"}
+{"Vegavat" : "Killed By" : "Samba"}
+{"Vena" : "Son Of" : "Anga"}
+{"Vena" : "Descendant Of" : "Manu Swayambhuva"}
+{"Nishada" : "Origin Is From thigh of" : "Vena"}
+{"Prithu" : "Son Of" : "Vena"}
+{"Prithu" : "Born From Right hand of" : "Vena"}
+{"Vena" : "Retired To" : "Hermitage on Narmada"}
+{"Draupadi" : "Dragged By" : "Duhsasana"}
+{"Venkata" : "Modern Name" : "Tirupati"}
+{"Vetala" : "Meaning" : "Ghost or goblin"}
+{"Vetala-Panchavinsati" : "Author" : "Jambhaladatta"}
+{"Vetravati" : "Meaning" : "River Betwa"}
+{"Vetravati" : "Origin" : "Vindhyas"}
+{"Vibhandaka" : "Son Of" : "Kasyapa"}
+{"Vibhandaka" : "Son" : "Rishyasringa"}
+{"Vibhishana" : "Meaning" : "Terrible"}
+{"Vibhishana" : "Brother Of" : "Ravana"}
+{"Vibhishana" : "Allied With" : "Rama"}
+{"Vibhishana" : "Throne Of" : "Lanka"}
+{"VichitraVirya" : "Identity" : "King"}
+{"Vidagdha-Madhava" : "Type" : "Drama in seven acts"}
+{"Vidagdha-Madhava" : "Author" : "Rupa"}
+{"Vidarbha" : "Capital" : "Kundina-pura"}
+{"Viddha-Salabhanjika" : "Meaning" : "The statue"}
+{"Viddha-Salabhanjika" : "Type" : "Comedy of domestic intrigue"}
+{"Viddha-Salabhanjika" : "Author" : "Sekhara"}
+{"Videha" : "Meaning" : "Ancient country"}
+{"Videha" : "Capital" : "Mithila"}
+
+{"Vidhatri" : "Meaning" : "Creator"}
+{"Vidhatri" : "Name of" : "Brahma"}
+{"Vidhatri" : "Name of" : "Vishnu}
+{"Vidhatri" : "Name of" : "Viswakarma"}
+{"Vidura" : "Son of" : "Vyasa"}
+{"Vidura" : "Title" : "Kshattri"}
+{"Vidura" : "Character" : "Wisest of the wise"}
+{"Vidura" : "Advised" : "Both Kauravas and Pandavas"}
+{"Vidura" : "Side in War" : "Pandavas"}
+{"Vidura" : "Reference" : "Mahabharata"}
+{"Vidya-Dhara" : "Meaning" : "Possessor of knowledge"}
+{"Vidya-Dhari" : "Meaning" : "Possessor of knowledge (fem)"}
+{"Vidya-Dhara" : "Habitat" : "Regions between earth and sky"}
+{"Vidya-Dhara" : "Disposition" : "Benevolent"}
+{"Vidya-Dhara" : "Attendants Of" : "Indra"}
+{"Vidya-Dhara" : "Also Known as" : "Kamarupin"}
+{"Vidya-Dhara" : "Also Known as" : "Khechara"}
+{"Vidya-Dhara" : "Also Known as" : "Nabhas-chara"}
+{"Vidya-Dhara" : "Also Known as" : "Priyam-vada"}
+{"Vidyaranya" : "Meaning" : "Forest of learning"}
+{"Vidyaranya" : "Title Of" : "Madhavacharya"}
+{"Vidyaranya" : "Patron Of" : "Vidyanagara"}
+{"VijaGanita" : "Type" : "Work on algebra"}
+{"VijaGanita" : "Author" : "Bhaskaracharya"}
+{"VijaGanita" : "Part Of" : "Siddhanta-siromani"}
+{"VijayaNagara" : "Original Name" : "Vidya-Nagara"}
+{"VijayaNagara" : "Renamed After" : "Victory"}
+{"Vijnaneswara" : "Author Of" : "Mitakshara"}
+{"Vikarna" : "Son of" : "Dhritarashira"}
+{"Vikramaditya" : "Identity" : "Celebrated Hindu King"}
+{"Vikramaditya" : "Reign At" : "Ujjayini"}
+{"Vikramaditya" : "Son of" : "Gardabhila"}
+{"Vikramaditya" : "Killed by" : "Salivahana"}
+{"Vikramorvasi" : "Meaning" : "The hero and the nymph"}
+{"Vikramorvasi" : "Type" : "Drama"}
+{"Vikramorvasi" : "Author" : "Kalidasa"}
+{"Vikukshi" : "King of" : "Solar race"}
+{"Vikukshi" : "Son of" : "Ikshwaku"}
+{"Vikukshi" : "Also Called" : "Sasada"}
+{"Vimada" : "Mentioned In" : "Rig-veda"}
+{"Vimada" : "Helped By" : "Aswins"}
+{"Vinata" : "Daughter of" : "Daksha"}
+{"Vinata" : "Wife of" : "Kasyapa"}
+{"Vinata" : "Child" : "Garuda"}
+{"Vinata" : "Child" : "Tarkshya"}
+{"Vinda" : "Also Known As" : "Anuvinda"}
+{"Vinda" : "Role" : "Fought in great war"}
+{"Vindhya" : "Meaning" : "Mountains across India"}
+{"Vindhya" : "Jealous Of" : "Himalaya"}
+{"Vindhya" : "Humbled By" : "Agastya"}
+
+{"Vindhyavali" : "Wife of" : "Bali"}
+{"Vindhya-Vasini" : "Wife of" : "Siva"}
+{"Vipas" : "Also known as" : "Byas"}
+{"Vipas" : "Also known as" : "Hyphasis"}
+{"Vipas" : "Also known as" : "Bibasis"}
+{"Viprachitti" : "Son of" : "Kasyapa"}
+{"Viprachitti" : "Son of" : "Danu"}
+{"ViraBhadra" : "Son of" : "Siva"}
+{"Viradha" : "Son of" : "Kala"}
+{"Viradha" : "Son of" : "Satahrada"}
+{"Viraj" : "Created" : "Vira"}
+{"Virata" : "King of" : "Virata"}
+{"Virochana" : "Son of" : "Prahlada"}
+{"Virochana" : "Father of" : "Bali"}
+{"Virupaksha" : "Also known as" : "Siva"}
+{"Virupaksha" : "Also known as One of the" : "Rudras"}
+{"Virupaksha" : "Son of" : "Kasyapa"}
+{"VisakhaDatta" : "Author of" : "Mudrarakshasa"}
+{"VisakhaDatta" : "Also known as" : "Royal descent"}
+{"Visala" : "Also known as" : "Ujjayini"}
+
+{"Vishnu" : "Also known as" : "Narayana"}
+{"Vishnu" : "Also known as" : "Achyuta"}
+{"Vishnu" : "Also known as" : "Ananta"}
+{"Vishnu" : "Also known as" : "Anantasayana"}
+{"Vishnu" : "Also known as" : "Chaturbhuja"}
+{"Vishnu" : "Also known as" : "Damodara"}
+{"Vishnu" : "Also known as" : "Govinda"}
+{"Vishnu" : "Also known as" : "Gopala"}
+{"Vishnu" : "Also known as" : "Hari"}
+{"Vishnu" : "Also known as" : "Hrishikesa"}
+{"Vishnu" : "Also known as" : "Jalasayin"}
+{"Vishnu" : "Also known as" : "Janarddana"}
+{"Vishnu" : "Also known as" : "Kesava"}
+{"Vishnu" : "Also known as" : "Kirtin"}
+{"Vishnu" : "Also known as" : "Lakshmipati"}
+{"Vishnu" : "Also known as" : "Madhusudana"}
+{"Vishnu" : "Also known as" : "Madhava"}
+{"Vishnu" : "Also known as" : "Mukunda"}
+{"Vishnu" : "Also known as" : "Murari"}
+{"Vishnu" : "Also known as" : "Nara"}
+{"Vishnu" : "Also known as" : "Panchayudha"}
+{"Vishnu" : "Also known as" : "Padmanabha"}
+{"Vishnu" : "Also known as" : "Pitambara"}
+{"Vishnu" : "Also known as" : "Purusha"}
+{"Vishnu" : "Also known as" : "Purushottama"}
+{"Vishnu" : "Also known as" : "Sarngin"}
+{"Vishnu" : "Also known as" : "Sarngipani"}
+{"Vishnu" : "Also known as" : "Vasudeva"}
+{"Vishnu" : "Also known as" : "Krishna"}
+{"Vishnu" : "Also known as" : "Varshneya"}
+{"Vishnu" : "Also known as" : "Vaikunthanatha"}
+{"Vishnu" : "Also known as" : "Yajnesa"}
+{"Vishnu" : "Also known as" : "Yajneswara"}
+{"Vishnu" : "Wife of" : "Lakshmi"}
+{"Vishnu" : "Vehicle" : "Garuda"}
+{"Visravas" : "Son of" : "Pulastya"}
+{"Visravas" : "Son of" : "Ilavida"}
+{"Kuvera" : "Son of" : "Visravas"}
+{"Ravana" : "Son of" : "Visravas"}
+{"Ravana" : "Son of" : "Nikasha"}
+{"Kumbhakarna" : "Son of" : "Visravas"}
+{"Kumbhakarna" : "Son of" : "Nikasha"}
+{"Vibhishana" : "Son of" : "Visravas"}
+{"Vibhishana" : "Son of" : "Nikasha"}
+{"Surpanakha" : "Daughter of" : "Visravas"}
+{"Surpanakha" : "Daughter of" : "Nikasha"}
+{"Pushpotkala" : "Mother of" : "Ravana"}
+{"Pushpotkala" : "Mother of" : "Kumbhakarna"}
+{"Malini" : "Mother of" : "Vibhishana"}
+{"Raka" : "Mother of" : "Khara"}
+{"Raka" : "Mother of" : "Surpanakha"}
+{"Visravas" : "Also known as" : "Half of Pulastya"}
+
+{"Viswa-karma" : "Son of" : "Prabhasa"}
+{"Viswa-karma" : "Son of" : "Yogasiddha"}
+{"Sanjna" : "Daughter of" : "Viswakarma"}
+{"Sanjna" : "Wife of" : "Surya"}
+{"Nala" : "Son of" : "Viswa-karma"}
+{"Viswamitra" : "Son of" : "Kusika"}
+{"Viswamitra" : "Son of" : "Gathin"}
+{"Viswamitra" : "Son of" : "Gadhi"}
+{"Viswamitra" : "Also known as" : "Gadhija"}
+{"Viswamitra" : "Also known as" : "Gadhinandana"}
+{"Satyavati" : "Daughter of" : "Gadhi"}
+{"Viswamitra" : "Son of" : "Satyavati"} 
+{"Jamad-agni" : "Son of" : "Satyavati"}
+{"Sakuntala" : "Daughter of" : "Viswamitra"}
+{"Trisanku" : "Also known as" : "Satyavrata"}
+{"Trisanku" : "Protector/ally of" : "Viswamitra"}
+{"Viswamitra" : "Amour with" : "Menaka"}
+{"Viswamitra" : "Amour with" : "Rambha"}
+{"Viswamitra" : "Cursed" : "Vasishtha"}
+{"Vasishtha" : "Cursed" : "Viswamitra"}
+
+{"Pratardana" : "Son of" : "Divodasa"}
+{"Gritsa-mada" : "Son of" : "Vitahavya"}
+{"Vivindhaya" : "Son of" : "Krishna"}
+{"Vrishni" : "Son of" : "Madhu"}
+{"Krishna" : "Descendant of" : "Vrishni"}
+{"Vrishni" : "Descendant of" : "Yadu"}
+{"Vrishnis" : "Descendants of" : "Vrishni"}
+{"Varshneya" : "Son of" : "Vrishni"}
+{"Vritrahan" : "Also known as" : "Indra"}
+{"VRINDAVANA" : "District Of" : "Mathura"}
+{"VRINDAVANA" : "Associated with" : "Krishna"}
+
+{"Vyasa" : "Son of" : "Parasara"}
+{"Vyasa" : "Son of" : "Satyavati"}
+{"Vyasa" : "Also known as" : "Kanina"}
+{"Vyasa" : "Also known as" : "Krishna"}
+{"Vyasa" : "Also known as" : "Dwaipayana"}
+{"Vyasa" : "Father of" : "Dhritarashira"}
+{"Vyasa" : "Father of" : "Pandu"}
+{"Vichitravirya" : "Son of" : "King Santanu"}
+{"Vichitravirya" : "Son of" : "Satyavati"}
+{"Yadu" : "Son of" : "Yayati"}
+{"Yadava" : "Descendant of" : "Yadu"}
+{"Yajna" : "Son of" : "Ruchi"}
+{"Yajna" : "Husband of" : "Dakshina"}
+{"Yajna-sena" : "Also known as" : "Drupada"}
+{"Yajna" : "Killed by" : "Virabhadra"}
+
+{"Yajnavalkya" : "Disciple of" : "Bashkali"}
+{"Yajnavalkya" : "Disciple of" : "Vaisampayana"}
+{"Yajnavalkya" : "Wife of" : "Maitreyi"}
+{"Yajnavalkya" : "Wife of" : "Katyayani"}
+{"Yajnavalkya" : "Cursed" : "Vidagdha Sakalya"}
+{"Vidagdha Sakalya" : "Cursed by" : "Yajnavalkya"}
+{"Yama" : "Son of" : "Vivaswat"}
+{"Yama" : "Twin-sister" : "Yami"}
+{"Yama" : "Brother of" : "Manu"}
+{"Yama" : "Father of" : "Yudhishthira"}
+{"Chhaya" : "Cursed" : "Yama"}
+{"Yama" : "Cursed by" : "Chhaya"}
+{"Yama" : "Wife of" : "Hemamala"}
+{"Yama" : "Wife of" : "Susila"}
+{"Yama" : "Wife of" : "Vijaya"}
+{"Yama" : "Assisted by" : "Chitragupta"}
+{"Yama" : "Attended by" : "Chanda"}
+{"Yama" : "Attended by" : "Kalapurusha"}
+{"Yama" : "Door kept by" : "Vaidhyata"}
+{"Yama" : "Also known as" : "Mrityu"}
+{"Yama" : "Also known as" : "Kala"}
+{"Yama" : "Also known as" : "Antaka"}
+{"Yama" : "Also known as" : "Kritanta"}
+{"Yama" : "Also known as" : "Samana"}
+{"Yama" : "Also known as" : "Danda-dhara"}
+{"Yama" : "Also known as" : "Bhimasasana"}
+{"Yama" : "Also known as" : "Pasi"}
+{"Yama" : "Also known as" : "Pitri-pati"}
+{"Yama" : "Also known as" : "Preta-raja"}
+{"Yama" : "Also known as" : "Sraddha-deva"}
+{"Yama" : "Also known as" : "Dharma-raja"}
+{"Yama" : "Also known as" : "Audumbara"}
+
+{"Yami" : "Sister of" : "Yama"}
+{"Yamuna" : "Daughter of" : "Surya"}
+{"Yamuna" : "Sister of" : "Yama"}
+{"BalaRama" : "Harassed" : "Yamuna"}
+{"Yamuna" : "Appeased" : "BalaRama"}
+{"Yasoda" : "Wife of" : "Nanda"}
+{"Yasoda" : "Foster-mother of" : "Krishna"}
+{"Yatus " : " Also known as " : " Yatu-dhanas "}
+{"Yatudhanas" : "Descended from" : "Kasyapa"}
+{"Yatudhanas" : "Descended from" : "Surasa"}
+{" YavaKri " : " Also known as " : " YavaKrita "}
+{"YavaKrita" : "Son of" : "Bharadwaja"}
+{"YavaKrita" : "Killed by" : "Rakshasa"}
+{"Rakshasa" : "Created by" : "Paravasu's sacrifice"}
+{"Paravasu" : "Cursed by" : "Bharadwaja"}
+{"Yavanas" : "Descended from" : "Turvasu"}
+{"Yavanas" : "Conquered by" : "King Sagara"}
+{"Yayati" : "Son of" : "Nahusha"}
+{"Yayati" : "Wife of" : "Devayani"}
+{"Yayati" : "Wife of" : "Sarmishtha"}
+{"Yadu" : "Son of" : "Yayati"}
+{"Puru" : "Son of" : "Yayati"}
+{"Druhyu" : "Son of" : "Yayati"}
+{"Turvasu" : "Son of" : "Yayati"}
+{"Anu" : "Son of" : "Yayati"}
+{"Puru" : "Assumed decrepitude of" : "Yayati"}
+{"Yayati" : "Restored youth to" : "Puru"}
+{"Yayati" : "Retired with" : "Wife"}
+{"Yayati" : "Title" : "Rajarshi"}
+{"Yayati's sons" : "Title" : "Rajarshi"}
+{"Yoga-Nidra" : "Personification of" : "Delusion"}
+{"Yogini" : "Attendant on" : "Durga"}
+{"Yoginis" : "Names" : "Marjani"}
+{"Yoginis" : "Names" : "Karpuretilaka"}
+{"Yoginis" : "Names" : "Malayagandhini"}
+{"Yoginis" : "Names" : "Kaumudika"}
+{"Yoginis" : "Names" : "Bherunda"}
+{"Yoginis" : "Names" : "Matali"}
+{"Yoginis" : "Names" : "Nayaki"}
+{"Yoginis" : "Names" : "Jaya"}
+{"Yoginis" : "Names" : "Subhachara"}
+{"Yoginis" : "Names" : "Sulakshana"}
+{"Yoginis" : "Names" : "Sunanda"}
+{"Yoni" : "Worship object" : "Saktis"}
+
+{"Yudhishthira" : "Son of" : "Dharma"}
+{"Yudhishthira" : "Brother of" : "Bhima"}
+{"Yudhishthira" : "Brother of" : "Arjuna"}
+{"Yudhishthira" : "Brother of" : "Nakula"}
+{"Yudhishthira" : "Brother of" : "Sahadeva"}
+{"Yudhishthira" : "Nephew of" : "Dhritarashtra"}
+{"Dhritarashtra" : "Father of" : "Duryodhana"}
+{"Yudhishthira" : "Trained by" : "Drona"}
+{"Yudhishthira" : "Husband Of" : "Draupadi"}
+{"Draupadi" : "Wife of" : "Pandavas"}
+{"Pandavas" : "Exiled due to" : "Dice game"}
+{"Sakuni" : "Cheated" : "Yudhishthira"}
+{"Yudhishthira" : "Father of" : "Yaudheya"}
+{"Yudhishthira" : "Succeeded by" : "Parikshit"}
+{"Yudhishthira" : "Performed" : "Rajasuya sacrifice"}
+{"Yudhishthira" : "Followed" : "Krishna"}
+{"Yudhishthira" : "Fought" : "Kauravas"}
+{"Yudhishthira" : "Assisted in death of" : "Drona"}
+{"Yudhishthira" : "Performed" : "Aswamedha sacrifice"}
+
+
+{"Yugan-dhara" : " City Of" : "Punjab"}
+{"Yuvanaswa" : "King of" : "Solar race"}
+{"Yuvanaswa" : "Father Of" : "Mandhatri"}
+{"Mandhatri" : "Conceived By And Born Of" : "Yuvanaswa"}
+{"Yuyudhana" : "Also Known As" : "Satyaki"}
+{"Yuyutsu" : "Son Of" : "Dhritarashtra"}
+{"Yuyutsu" : "Mother" : "Vaisya handmaid"}
+{"Yuyutsu" : "Left Side Of" : "Kauravas"}
+{"Yuyutsu" : "Joined" : "Pandavas"}
+{"Yudhisthira" : "Established" : "Yuyutsu in the kingdom of Indraprastha"}
