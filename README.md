@@ -72,7 +72,7 @@ python scripts/neo4j_import.py
 
 ## 📊 Knowledge Graph
 
-![Knowledge Graph](images/graph_visualization.jpeg)
+![Knowledge Graph](image/graph_visualization.jpeg)
 
 ---
 
